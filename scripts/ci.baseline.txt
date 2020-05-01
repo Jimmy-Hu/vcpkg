@@ -58,7 +58,6 @@ akali:arm-uwp=fail
 akali:arm64-windows=fail
 alac:arm-uwp=fail
 alac:x64-uwp=fail
-alembic:x64-linux=fail
 alembic:x64-osx=fail
 alembic:x64-windows-static=fail
 ampl-mp:arm64-windows=fail
@@ -234,12 +233,7 @@ chmlib:arm-uwp=fail
 chmlib:x64-uwp=fail
 civetweb:arm64-windows      = skip
 civetweb:arm-uwp            = skip
-civetweb:x64-linux          = skip
-civetweb:x64-osx            = skip
 civetweb:x64-uwp            = skip
-civetweb:x64-windows        = skip
-civetweb:x64-windows-static = skip
-civetweb:x86-windows        = skip
 clapack:x64-uwp=fail
 clblast:x64-osx=ignore
 clblast:x64-linux=fail
@@ -875,6 +869,9 @@ libpng-apng:x64-windows-static = skip
 libpng-apng:x86-windows        = skip
 libpq:arm-uwp=fail
 libpq:x64-uwp=fail
+libqcow:arm-uwp=fail
+libqcow:x64-uwp=fail
+libqcow:x64-windows-static=fail
 librabbitmq:x64-linux=ignore
 libraqm:x64-windows-static=fail
 librdkafka:arm-uwp=fail
@@ -1081,8 +1078,6 @@ miniupnpc:arm-uwp=fail
 miniupnpc:x64-uwp=fail
 minizip:arm-uwp=fail
 minizip:x64-uwp=fail
-mlpack:x64-linux=ignore
-mlpack:x64-osx=ignore
 mman:x64-linux=fail
 mman:x64-osx=fail
 # mmx installs many problematic headers, such as `json.h` and `sched.h`
@@ -1467,40 +1462,8 @@ qhull:x64-uwp=ignore
 qpid-proton:arm-uwp=fail
 qpid-proton:x64-uwp=fail
 qpid-proton:x64-windows-static=fail
-#qt5-activeqt is skipped because it conflicts with qt5-declarative:
-# Starting package 142/820: qt5-declarative:x86-windows
-# Building package qt5-declarative[core]:x86-windows...
-# Using cached binary package: C:\agent\_work\1\s\archives\94\9428e63fede20a51ac0631a9d94d8773e593dd06.zip
-# Building package qt5-declarative[core]:x86-windows... done
-# Installing package qt5-declarative[core]:x86-windows...
-#     The following files are already installed in C:/agent/_work/1/s/installed/x86-windows and are in conflict with qt5-declarative:x86-windows
-#
-# Installed by qt5-activeqt:x86-windows
-#     tools/qt5/bin/Qt5Gui.dll
-#     tools/qt5/bin/Qt5Widgets.dll
-#     tools/qt5/bin/bz2.dll
-#     tools/qt5/bin/freetype.dll
-#     tools/qt5/bin/glib-2.dll
-#     tools/qt5/bin/harfbuzz.dll
-#     tools/qt5/bin/jpeg62.dll
-#     tools/qt5/bin/libcharset.dll
-#     tools/qt5/bin/libiconv.dll
-#     tools/qt5/bin/libintl.dll
-#     tools/qt5/bin/libpng16.dll
-#     tools/qt5/bin/pcre.dll
-#     tools/qt5/bin/plugins/imageformats/qgif.dll
-#     tools/qt5/bin/plugins/imageformats/qico.dll
-#     tools/qt5/bin/plugins/imageformats/qjpeg.dll
-#     tools/qt5/bin/plugins/platforms/qwindows.dll
-#     tools/qt5/bin/plugins/styles/qwindowsvistastyle.dll
-qt5-activeqt:arm-uwp=skip
-qt5-activeqt:arm64-windows=skip
 qt5-activeqt:x64-linux=fail
 qt5-activeqt:x64-osx=fail
-qt5-activeqt:x64-uwp=skip
-qt5-activeqt:x64-windows-static=skip
-qt5-activeqt:x64-windows=skip
-qt5-activeqt:x86-windows=skip
 qt5-macextras:x64-linux=fail
 qt5-macextras:x64-windows=fail
 qt5-macextras:x64-windows-static=fail
@@ -1513,7 +1476,7 @@ qt5-wayland:x64-windows=fail
 qt5-wayland:x64-windows-static=fail
 qt5-winextras:x64-linux=fail
 qt5-winextras:x64-osx=fail
-# Too big for CI. 
+# Too big for CI.
 qt5-webengine:x64-windows=skip
 qt5-webengine:x86-windows=skip
 # Missing prerequisites for CI success
