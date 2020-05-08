@@ -504,7 +504,6 @@ g3log:x64-uwp=fail
 gainput:arm-uwp=fail
 gainput:x64-linux=fail
 gainput:x64-uwp=fail
-gainput:x64-windows-static=fail
 gamma:x64-linux=fail
 gamma:x64-osx=fail
 gasol:arm64-windows=fail
@@ -573,6 +572,9 @@ gsl:x64-uwp=fail
 # https://github.com/microsoft/vcpkg/pull/11048
 gsoap:x64-linux=fail
 gsoap:x64-osx=fail
+gsoap:x64-uwp=fail
+gsoap:x64-windows-static=fail
+gsoap:x64-windows=fail
 gtk:x64-linux=fail
 gtk:x86-windows=ignore
 guetzli:x64-osx=fail
