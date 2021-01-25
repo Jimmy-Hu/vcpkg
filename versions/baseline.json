@@ -1532,6 +1532,10 @@
       "baseline": "3.0.0",
       "port-version": 1
     },
+    "dav1d": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "dbg-macro": {
       "baseline": "2019-07-11",
       "port-version": 0
@@ -3866,6 +3870,10 @@
     },
     "ms-angle": {
       "baseline": "alias",
+      "port-version": 0
+    },
+    "ms-gltf": {
+      "baseline": "r1.9.5.0",
       "port-version": 0
     },
     "ms-gsl": {
