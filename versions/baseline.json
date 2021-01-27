@@ -1145,7 +1145,7 @@
       "port-version": 1
     },
     "charls": {
-      "baseline": "2.1.0-1",
+      "baseline": "2.2.0",
       "port-version": 0
     },
     "chartdir": {
@@ -4064,6 +4064,10 @@
       "baseline": "4.1.2",
       "port-version": 0
     },
+    "nsync": {
+      "baseline": "1.24.0",
+      "port-version": 0
+    },
     "nt-wrapper": {
       "baseline": "2019-08-10",
       "port-version": 0
@@ -4370,7 +4374,7 @@
     },
     "osgearth": {
       "baseline": "3.1",
-      "port-version": 1
+      "port-version": 2
     },
     "osi": {
       "baseline": "0.108.6",
