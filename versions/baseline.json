@@ -1345,7 +1345,7 @@
       "port-version": 0
     },
     "cpp-httplib": {
-      "baseline": "0.7.18",
+      "baseline": "0.8.4",
       "port-version": 0
     },
     "cpp-netlib": {
@@ -2805,7 +2805,7 @@
       "port-version": 1
     },
     "krabsetw": {
-      "baseline": "4.1.14",
+      "baseline": "4.1.18",
       "port-version": 0
     },
     "ktx": {
@@ -3645,7 +3645,7 @@
       "port-version": 0
     },
     "lua": {
-      "baseline": "5.4.1",
+      "baseline": "5.4.2",
       "port-version": 0
     },
     "luabridge": {
@@ -4738,7 +4738,7 @@
     },
     "proj4": {
       "baseline": "7.2.1",
-      "port-version": 0
+      "port-version": 1
     },
     "prometheus-cpp": {
       "baseline": "0.12.1",
