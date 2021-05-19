@@ -17,7 +17,7 @@
       "port-version": 0
     },
     "ace": {
-      "baseline": "7.0.1",
+      "baseline": "7.0.2",
       "port-version": 0
     },
     "activemq-cpp": {
@@ -3666,7 +3666,7 @@
     },
     "libxml2": {
       "baseline": "2.9.10",
-      "port-version": 6
+      "port-version": 7
     },
     "libxmlmm": {
       "baseline": "0.6.0",
