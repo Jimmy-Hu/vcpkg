@@ -261,11 +261,11 @@
       "port-version": 1
     },
     "azure-core-cpp": {
-      "baseline": "1.0.0-beta.9",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "azure-identity-cpp": {
-      "baseline": "1.0.0-beta.6",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "azure-iot-sdk-c": {
@@ -2341,7 +2341,7 @@
       "port-version": 6
     },
     "google-cloud-cpp": {
-      "baseline": "1.27.0",
+      "baseline": "1.28.0",
       "port-version": 0
     },
     "google-cloud-cpp-common": {
