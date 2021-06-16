@@ -157,7 +157,7 @@
       "port-version": 3
     },
     "arrow": {
-      "baseline": "3.0.0",
+      "baseline": "4.0.0",
       "port-version": 0
     },
     "ashes": {
@@ -206,7 +206,7 @@
     },
     "aubio": {
       "baseline": "0.4.9",
-      "port-version": 5
+      "port-version": 6
     },
     "audiofile": {
       "baseline": "1.0.7",
@@ -1097,7 +1097,7 @@
       "port-version": 1
     },
     "c4core": {
-      "baseline": "2020-04-12",
+      "baseline": "2021-01-14",
       "port-version": 0
     },
     "caf": {
@@ -1654,7 +1654,7 @@
     },
     "devil": {
       "baseline": "1.8.0",
-      "port-version": 7
+      "port-version": 8
     },
     "dimcli": {
       "baseline": "5.0.2",
@@ -3454,7 +3454,7 @@
     },
     "libpq": {
       "baseline": "12.2",
-      "port-version": 16
+      "port-version": 17
     },
     "libpqxx": {
       "baseline": "7.3.1",
@@ -4482,7 +4482,7 @@
     },
     "open62541": {
       "baseline": "1.1.2",
-      "port-version": 1
+      "port-version": 2
     },
     "openal-soft": {
       "baseline": "1.21.1",
@@ -5430,7 +5430,7 @@
     },
     "raylib": {
       "baseline": "3.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "rbdl": {
       "baseline": "2.6.0",
@@ -5585,7 +5585,7 @@
       "port-version": 0
     },
     "ryml": {
-      "baseline": "2020-04-12",
+      "baseline": "2021-05-27",
       "port-version": 0
     },
     "ryu": {
@@ -6789,7 +6789,7 @@
       "port-version": 0
     },
     "yyjson": {
-      "baseline": "2021-04-12",
+      "baseline": "0.3.0",
       "port-version": 0
     },
     "z3": {
