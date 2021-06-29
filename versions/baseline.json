@@ -4290,7 +4290,7 @@
     },
     "netcdf-c": {
       "baseline": "4.7.4",
-      "port-version": 2
+      "port-version": 3
     },
     "netcdf-cxx4": {
       "baseline": "4.3.1",
@@ -4946,7 +4946,7 @@
     },
     "portaudio": {
       "baseline": "19.7",
-      "port-version": 0
+      "port-version": 1
     },
     "portmidi": {
       "baseline": "0.234",
