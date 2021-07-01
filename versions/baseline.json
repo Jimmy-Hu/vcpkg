@@ -1090,7 +1090,7 @@
     },
     "bzip2": {
       "baseline": "1.0.8",
-      "port-version": 1
+      "port-version": 2
     },
     "c-ares": {
       "baseline": "1.17.1",
@@ -1325,7 +1325,7 @@
       "port-version": 0
     },
     "cnl": {
-      "baseline": "2019-06-23",
+      "baseline": "1.1.7",
       "port-version": 0
     },
     "coin": {
@@ -3710,7 +3710,7 @@
     },
     "libxml2": {
       "baseline": "2.9.10",
-      "port-version": 7
+      "port-version": 8
     },
     "libxmlmm": {
       "baseline": "0.6.0",
@@ -4606,7 +4606,7 @@
     },
     "openssl": {
       "baseline": "1.1.1k",
-      "port-version": 5
+      "port-version": 6
     },
     "openssl-unix": {
       "baseline": "1.1.1h",
@@ -5524,6 +5524,10 @@
       "baseline": "0.3.0",
       "port-version": 0
     },
+    "rmlui": {
+      "baseline": "4.1",
+      "port-version": 0
+    },
     "roaring": {
       "baseline": "2019-03-05-2",
       "port-version": 0
@@ -6150,7 +6154,7 @@
     },
     "tgui": {
       "baseline": "2021-04-19",
-      "port-version": 1
+      "port-version": 2
     },
     "theia": {
       "baseline": "0.8",
