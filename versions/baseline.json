@@ -5036,6 +5036,10 @@
       "baseline": "0.234",
       "port-version": 0
     },
+    "portsmf": {
+      "baseline": "0.236",
+      "port-version": 0
+    },
     "ppconsul": {
       "baseline": "0.5-1",
       "port-version": 0
@@ -5524,6 +5528,10 @@
       "baseline": "2.6.0",
       "port-version": 0
     },
+    "rbdl-orb": {
+      "baseline": "3.0.0",
+      "port-version": 0
+    },
     "re2": {
       "baseline": "2020-10-01",
       "port-version": 0
@@ -5846,7 +5854,7 @@
     },
     "signalrclient": {
       "baseline": "1.0.0-beta1-9",
-      "port-version": 0
+      "port-version": 1
     },
     "sigslot": {
       "baseline": "1.0.0-3",
