@@ -273,7 +273,7 @@
       "port-version": 1
     },
     "azure-core-cpp": {
-      "baseline": "1.1.0",
+      "baseline": "1.2.0",
       "port-version": 0
     },
     "azure-identity-cpp": {
@@ -3817,7 +3817,7 @@
       "port-version": 2
     },
     "libzippp": {
-      "baseline": "4.1-1.8.0",
+      "baseline": "5.0-1.8.0",
       "port-version": 0
     },
     "licensepp": {
@@ -4069,7 +4069,7 @@
       "port-version": 0
     },
     "microsoft-signalr": {
-      "baseline": "0.1.0-alpha2",
+      "baseline": "0.1.0-alpha3",
       "port-version": 0
     },
     "mikktspace": {
@@ -5070,7 +5070,7 @@
     },
     "proj4": {
       "baseline": "7.2.1",
-      "port-version": 2
+      "port-version": 3
     },
     "prometheus-cpp": {
       "baseline": "0.12.3",
@@ -5102,7 +5102,7 @@
     },
     "ptex": {
       "baseline": "2.3.2",
-      "port-version": 2
+      "port-version": 3
     },
     "pthread": {
       "baseline": "3.0.0",
@@ -5530,11 +5530,11 @@
     },
     "rbdl": {
       "baseline": "2.6.0",
-      "port-version": 0
+      "port-version": 1
     },
     "rbdl-orb": {
       "baseline": "3.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "re2": {
       "baseline": "2020-10-01",
