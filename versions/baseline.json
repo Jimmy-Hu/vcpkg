@@ -1538,7 +1538,7 @@
     },
     "crow": {
       "baseline": "0.3.2",
-      "port-version": 0
+      "port-version": 1
     },
     "cryptopp": {
       "baseline": "8.5.0",
@@ -2286,15 +2286,15 @@
     },
     "gettext": {
       "baseline": "0.21",
-      "port-version": 4
+      "port-version": 5
     },
     "gettimeofday": {
       "baseline": "2017-10-14-3",
       "port-version": 0
     },
     "gflags": {
-      "baseline": "2.2.2-1",
-      "port-version": 0
+      "baseline": "2.2.2",
+      "port-version": 2
     },
     "ghc-filesystem": {
       "baseline": "1.5.4",
@@ -4580,6 +4580,10 @@
       "baseline": "6.9.4",
       "port-version": 0
     },
+    "onnx": {
+      "baseline": "1.9.0",
+      "port-version": 0
+    },
     "onnxruntime-gpu": {
       "baseline": "1.5.1",
       "port-version": 0
@@ -6114,6 +6118,10 @@
     },
     "sratom": {
       "baseline": "0.6.4",
+      "port-version": 0
+    },
+    "srpc": {
+      "baseline": "0.9.3",
       "port-version": 0
     },
     "starlink-ast": {
