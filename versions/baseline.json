@@ -546,7 +546,7 @@
     },
     "boost-context": {
       "baseline": "1.76.0",
-      "port-version": 0
+      "port-version": 1
     },
     "boost-contract": {
       "baseline": "1.76.0",
@@ -2158,7 +2158,7 @@
     },
     "freexl": {
       "baseline": "1.0.4",
-      "port-version": 11
+      "port-version": 12
     },
     "fribidi": {
       "baseline": "1.0.10",
