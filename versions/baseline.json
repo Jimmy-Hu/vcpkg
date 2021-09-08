@@ -1092,6 +1092,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "buck-yeh-bux": {
+      "baseline": "1.4.1",
+      "port-version": 0
+    },
     "bullet3": {
       "baseline": "3.17",
       "port-version": 1
@@ -1422,6 +1426,10 @@
     },
     "cpp-httplib": {
       "baseline": "0.9.1",
+      "port-version": 0
+    },
+    "cpp-ipc": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "cpp-netlib": {
@@ -2594,7 +2602,7 @@
     },
     "icu": {
       "baseline": "69.1",
-      "port-version": 13
+      "port-version": 14
     },
     "ideviceinstaller": {
       "baseline": "1.1.2.23-1",
@@ -3061,7 +3069,7 @@
       "port-version": 2
     },
     "lcms": {
-      "baseline": "2.11",
+      "baseline": "2.12",
       "port-version": 0
     },
     "leaf": {
@@ -6946,7 +6954,7 @@
     },
     "yaml-cpp": {
       "baseline": "0.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "yara": {
       "baseline": "4.1.1",
