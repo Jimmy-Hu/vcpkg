@@ -2968,6 +2968,10 @@
       "baseline": "5.84.0",
       "port-version": 2
     },
+    "kf5iconthemes": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
     "kf5itemmodels": {
       "baseline": "5.84.0",
       "port-version": 1
@@ -5748,6 +5752,10 @@
       "baseline": "0.0.7",
       "port-version": 0
     },
+    "rsm-bsa": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "rsocket": {
       "baseline": "2020.05.04.00",
       "port-version": 2
@@ -6227,10 +6235,6 @@
     "stb": {
       "baseline": "2020-09-14",
       "port-version": 1
-    },
-    "stduuid": {
-      "baseline": "2021-08-30",
-      "port-version": 0
     },
     "stlab": {
       "baseline": "1.6.2",
