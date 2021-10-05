@@ -333,7 +333,7 @@
       "port-version": 0
     },
     "azure-security-keyvault-keys-cpp": {
-      "baseline": "4.1.0",
+      "baseline": "4.2.0",
       "port-version": 0
     },
     "azure-security-keyvault-secrets-cpp": {
@@ -497,7 +497,7 @@
       "port-version": 2
     },
     "boolinq": {
-      "baseline": "3.0.1",
+      "baseline": "3.0.2",
       "port-version": 0
     },
     "boost": {
@@ -1149,7 +1149,7 @@
       "port-version": 0
     },
     "buck-yeh-bux": {
-      "baseline": "1.4.1",
+      "baseline": "1.5.0",
       "port-version": 0
     },
     "bullet3": {
