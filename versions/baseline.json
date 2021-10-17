@@ -1629,8 +1629,8 @@
       "port-version": 2
     },
     "crow": {
-      "baseline": "0.3.2",
-      "port-version": 1
+      "baseline": "0.3.3",
+      "port-version": 0
     },
     "cryptopp": {
       "baseline": "8.5.0",
@@ -1805,15 +1805,15 @@
       "port-version": 4
     },
     "directxtex": {
-      "baseline": "sept2021",
+      "baseline": "oct2021",
       "port-version": 0
     },
     "directxtk": {
-      "baseline": "sept2021",
+      "baseline": "oct2021",
       "port-version": 0
     },
     "directxtk12": {
-      "baseline": "sept2021",
+      "baseline": "oct2021",
       "port-version": 0
     },
     "dirent": {
@@ -1922,7 +1922,7 @@
     },
     "easyhook": {
       "baseline": "2.7.7097.0",
-      "port-version": 0
+      "port-version": 1
     },
     "easyloggingpp": {
       "baseline": "9.97.0",
@@ -2353,8 +2353,8 @@
       "port-version": 1
     },
     "geogram": {
-      "baseline": "1.7.5",
-      "port-version": 4
+      "baseline": "1.7.6",
+      "port-version": 0
     },
     "geographiclib": {
       "baseline": "1.52",
@@ -2562,7 +2562,7 @@
     },
     "gstreamer": {
       "baseline": "1.19.2",
-      "port-version": 0
+      "port-version": 1
     },
     "gtest": {
       "baseline": "1.11.0",
@@ -2657,8 +2657,8 @@
       "port-version": 0
     },
     "hiredis": {
-      "baseline": "1.0.0",
-      "port-version": 1
+      "baseline": "1.0.2",
+      "port-version": 0
     },
     "hpx": {
       "baseline": "1.7.1",
@@ -3069,6 +3069,10 @@
       "port-version": 1
     },
     "kf5kio": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
+    "kf5newstuff": {
       "baseline": "5.84.0",
       "port-version": 0
     },
@@ -3658,7 +3662,7 @@
     },
     "libosip2": {
       "baseline": "5.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libosmium": {
       "baseline": "2.17.0",
@@ -3962,7 +3966,7 @@
     },
     "libwebsockets": {
       "baseline": "4.2.2",
-      "port-version": 1
+      "port-version": 2
     },
     "libxdiff": {
       "baseline": "0.23",
@@ -4173,8 +4177,8 @@
       "port-version": 0
     },
     "mapnik": {
-      "baseline": "2021-09-15",
-      "port-version": 1
+      "baseline": "2021-10-13",
+      "port-version": 0
     },
     "marble": {
       "baseline": "19.08.2",
@@ -4902,7 +4906,7 @@
     },
     "openssl": {
       "baseline": "1.1.1l",
-      "port-version": 1
+      "port-version": 2
     },
     "openssl-unix": {
       "baseline": "1.1.1h",
@@ -6282,7 +6286,7 @@
     },
     "soundtouch": {
       "baseline": "2.3.1",
-      "port-version": 0
+      "port-version": 1
     },
     "soxr": {
       "baseline": "0.1.3",
