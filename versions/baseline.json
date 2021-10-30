@@ -1946,7 +1946,7 @@
     },
     "easyloggingpp": {
       "baseline": "9.97.0",
-      "port-version": 1
+      "port-version": 2
     },
     "eathread": {
       "baseline": "1.32.09",
@@ -5846,7 +5846,7 @@
     },
     "re2": {
       "baseline": "2021-09-01",
-      "port-version": 0
+      "port-version": 1
     },
     "readerwriterqueue": {
       "baseline": "1.0.5",
