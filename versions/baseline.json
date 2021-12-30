@@ -2201,7 +2201,7 @@
       "port-version": 2
     },
     "fluidsynth": {
-      "baseline": "2.2.1",
+      "baseline": "2.2.4",
       "port-version": 1
     },
     "fmem": {
@@ -4070,7 +4070,7 @@
     },
     "libwebm": {
       "baseline": "1.0.0.28",
-      "port-version": 0
+      "port-version": 1
     },
     "libwebp": {
       "baseline": "1.2.1",
@@ -4398,7 +4398,7 @@
     },
     "mimalloc": {
       "baseline": "2.0.3",
-      "port-version": 0
+      "port-version": 1
     },
     "minc": {
       "baseline": "2.4.03",
@@ -4998,7 +4998,7 @@
     },
     "openimageio": {
       "baseline": "2.3.7.2",
-      "port-version": 4
+      "port-version": 5
     },
     "openjpeg": {
       "baseline": "2.4.0",
@@ -6782,7 +6782,7 @@
     },
     "tiff": {
       "baseline": "4.3.0",
-      "port-version": 2
+      "port-version": 3
     },
     "tinkerforge": {
       "baseline": "2.1.25",
@@ -7137,7 +7137,7 @@
       "port-version": 0
     },
     "vcpkg-cmake-config": {
-      "baseline": "2021-12-01",
+      "baseline": "2021-12-28",
       "port-version": 0
     },
     "vcpkg-gfortran": {
