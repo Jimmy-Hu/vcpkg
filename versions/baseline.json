@@ -826,7 +826,7 @@
     },
     "boost-modular-build-helper": {
       "baseline": "1.77.0",
-      "port-version": 4
+      "port-version": 5
     },
     "boost-move": {
       "baseline": "1.77.0",
@@ -1130,7 +1130,7 @@
     },
     "botan": {
       "baseline": "2.18.1",
-      "port-version": 5
+      "port-version": 6
     },
     "box2d": {
       "baseline": "2.4.1",
@@ -1462,7 +1462,7 @@
     },
     "colmap": {
       "baseline": "3.6",
-      "port-version": 1
+      "port-version": 2
     },
     "comms": {
       "baseline": "3.4.0",
@@ -2274,7 +2274,7 @@
     },
     "freerdp": {
       "baseline": "2.4.0",
-      "port-version": 2
+      "port-version": 3
     },
     "freetds": {
       "baseline": "1.2.11",
@@ -2469,7 +2469,7 @@
       "port-version": 0
     },
     "glfw3": {
-      "baseline": "3.3.5",
+      "baseline": "3.3.6",
       "port-version": 0
     },
     "gli": {
@@ -2825,7 +2825,7 @@
       "port-version": 1
     },
     "igraph": {
-      "baseline": "0.9.5",
+      "baseline": "0.9.6",
       "port-version": 0
     },
     "iir1": {
@@ -3526,7 +3526,7 @@
     },
     "libgwenhywfar": {
       "baseline": "5.6.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libgxps": {
       "baseline": "0.3.2",
@@ -3842,7 +3842,7 @@
     },
     "libraw": {
       "baseline": "201903",
-      "port-version": 6
+      "port-version": 7
     },
     "librdkafka": {
       "baseline": "1.8.2",
@@ -4790,7 +4790,7 @@
     },
     "numactl": {
       "baseline": "2.0.14",
-      "port-version": 0
+      "port-version": 1
     },
     "numcpp": {
       "baseline": "2.6.0",
@@ -5750,7 +5750,7 @@
     },
     "qtdeclarative": {
       "baseline": "6.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "qtdeviceutilities": {
       "baseline": "6.2.2",
@@ -6013,7 +6013,7 @@
       "port-version": 1
     },
     "refl-cpp": {
-      "baseline": "0.12.1",
+      "baseline": "0.12.2",
       "port-version": 0
     },
     "refprop-headers": {
@@ -6470,7 +6470,7 @@
     },
     "soqt": {
       "baseline": "1.6.0",
-      "port-version": 3
+      "port-version": 4
     },
     "sord": {
       "baseline": "0.16.4",
@@ -6721,8 +6721,8 @@
       "port-version": 4
     },
     "teemo": {
-      "baseline": "2.5",
-      "port-version": 1
+      "baseline": "2.6",
+      "port-version": 0
     },
     "telnetpp": {
       "baseline": "2.1.2",
@@ -7334,7 +7334,7 @@
     },
     "wxwidgets": {
       "baseline": "3.1.5",
-      "port-version": 4
+      "port-version": 5
     },
     "x-plane": {
       "baseline": "3.0.3",
