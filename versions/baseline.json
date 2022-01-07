@@ -170,7 +170,7 @@
     },
     "arrow": {
       "baseline": "6.0.1",
-      "port-version": 0
+      "port-version": 1
     },
     "ashes": {
       "baseline": "2021-06-18",
@@ -826,7 +826,7 @@
     },
     "boost-modular-build-helper": {
       "baseline": "1.77.0",
-      "port-version": 5
+      "port-version": 6
     },
     "boost-move": {
       "baseline": "1.77.0",
@@ -1746,7 +1746,7 @@
     },
     "dartsim": {
       "baseline": "6.11.0",
-      "port-version": 2
+      "port-version": 3
     },
     "dataframe": {
       "baseline": "1.19.0",
@@ -5037,8 +5037,8 @@
       "port-version": 1
     },
     "openssl": {
-      "baseline": "1.1.1l",
-      "port-version": 4
+      "baseline": "1.1.1m",
+      "port-version": 0
     },
     "openssl-unix": {
       "baseline": "1.1.1h",
@@ -5301,7 +5301,11 @@
       "port-version": 0
     },
     "plf-colony": {
-      "baseline": "6.28",
+      "baseline": "6.33",
+      "port-version": 0
+    },
+    "plf-hive": {
+      "baseline": "2021-12-11",
       "port-version": 0
     },
     "plf-list": {
@@ -6226,7 +6230,7 @@
     },
     "sdformat9": {
       "baseline": "9.4.0",
-      "port-version": 2
+      "port-version": 3
     },
     "sdl1": {
       "baseline": "1.2.15",
@@ -6421,11 +6425,11 @@
       "port-version": 1
     },
     "so5extra": {
-      "baseline": "1.4.1.1",
+      "baseline": "1.5.0",
       "port-version": 0
     },
     "sobjectizer": {
-      "baseline": "5.7.2.6",
+      "baseline": "5.7.3",
       "port-version": 0
     },
     "soci": {
@@ -7046,7 +7050,7 @@
     },
     "urdfdom": {
       "baseline": "1.0.4",
-      "port-version": 4
+      "port-version": 5
     },
     "urdfdom-headers": {
       "baseline": "1.0.5",
@@ -7057,8 +7061,8 @@
       "port-version": 2
     },
     "uriparser": {
-      "baseline": "0.9.5",
-      "port-version": 1
+      "baseline": "0.9.6",
+      "port-version": 0
     },
     "usbmuxd": {
       "baseline": "1.2.235",
