@@ -1958,7 +1958,7 @@
     },
     "easyhook": {
       "baseline": "2.7.7097.0",
-      "port-version": 4
+      "port-version": 5
     },
     "easyloggingpp": {
       "baseline": "9.97.0",
@@ -6582,6 +6582,10 @@
     },
     "spirv-headers": {
       "baseline": "2021-03-25",
+      "port-version": 0
+    },
+    "spirv-reflect": {
+      "baseline": "2021-12-31",
       "port-version": 0
     },
     "spirv-tools": {
