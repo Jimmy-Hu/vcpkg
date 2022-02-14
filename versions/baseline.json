@@ -349,11 +349,11 @@
       "port-version": 0
     },
     "azure-storage-blobs-cpp": {
-      "baseline": "12.2.1",
+      "baseline": "12.3.0",
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.2.0",
+      "baseline": "12.2.1",
       "port-version": 0
     },
     "azure-storage-cpp": {
@@ -361,7 +361,7 @@
       "port-version": 3
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.2.0",
+      "baseline": "12.3.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
@@ -369,7 +369,7 @@
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
-      "baseline": "12.0.0-beta.2",
+      "baseline": "12.0.0-beta.3",
       "port-version": 0
     },
     "azure-uamqp-c": {
@@ -1893,7 +1893,7 @@
       "port-version": 1
     },
     "doctest": {
-      "baseline": "2.4.6",
+      "baseline": "2.4.8",
       "port-version": 0
     },
     "double-conversion": {
@@ -2281,8 +2281,8 @@
       "port-version": 5
     },
     "freerdp": {
-      "baseline": "2.4.0",
-      "port-version": 3
+      "baseline": "2.5.0",
+      "port-version": 0
     },
     "freetds": {
       "baseline": "1.2.11",
@@ -3849,8 +3849,8 @@
       "port-version": 1
     },
     "librabbitmq": {
-      "baseline": "2020-06-03",
-      "port-version": 1
+      "baseline": "0.11.0",
+      "port-version": 0
     },
     "libraqm": {
       "baseline": "0.9.0",
@@ -4194,7 +4194,7 @@
     },
     "log4cplus": {
       "baseline": "2.0.7",
-      "port-version": 0
+      "port-version": 1
     },
     "log4cpp": {
       "baseline": "2.9.1",
