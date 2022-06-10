@@ -34,7 +34,7 @@
     },
     "air-ctl": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "aixlog": {
       "baseline": "1.5.0",
@@ -177,8 +177,8 @@
       "port-version": 0
     },
     "ashes": {
-      "baseline": "2022-04-03",
-      "port-version": 1
+      "baseline": "2022-06-08",
+      "port-version": 0
     },
     "asio": {
       "baseline": "1.22.1",
@@ -1548,6 +1548,10 @@
       "baseline": "4.1.0",
       "port-version": 0
     },
+    "convectionkernels": {
+      "baseline": "2022-06-08",
+      "port-version": 0
+    },
     "coolprop": {
       "baseline": "6.4.1",
       "port-version": 1
@@ -2373,7 +2377,7 @@
       "port-version": 0
     },
     "frozen": {
-      "baseline": "2021-04-22",
+      "baseline": "1.1.1",
       "port-version": 0
     },
     "frugally-deep": {
@@ -2777,8 +2781,8 @@
       "port-version": 0
     },
     "hexl": {
-      "baseline": "1.2.3",
-      "port-version": 1
+      "baseline": "1.2.4",
+      "port-version": 0
     },
     "hffix": {
       "baseline": "1.0.0",
@@ -5617,8 +5621,8 @@
       "port-version": 0
     },
     "protopuf": {
-      "baseline": "2.1.0",
-      "port-version": 1
+      "baseline": "2.2.0",
+      "port-version": 0
     },
     "protozero": {
       "baseline": "1.7.1",
@@ -6193,7 +6197,7 @@
       "port-version": 1
     },
     "rendergraph": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "replxx": {
@@ -7428,6 +7432,10 @@
       "baseline": "0.5",
       "port-version": 0
     },
+    "vkfft": {
+      "baseline": "1.2.17",
+      "port-version": 0
+    },
     "vlfeat": {
       "baseline": "2020-07-10",
       "port-version": 1
@@ -7617,8 +7625,8 @@
       "port-version": 0
     },
     "xbyak": {
-      "baseline": "6.00",
-      "port-version": 1
+      "baseline": "6.60",
+      "port-version": 0
     },
     "xerces-c": {
       "baseline": "3.2.3",
