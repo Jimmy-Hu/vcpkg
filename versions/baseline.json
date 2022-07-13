@@ -1941,7 +1941,7 @@
       "port-version": 6
     },
     "dlib": {
-      "baseline": "19.23",
+      "baseline": "19.24",
       "port-version": 0
     },
     "dmlc": {
@@ -2966,7 +2966,7 @@
     },
     "imgui": {
       "baseline": "1.88",
-      "port-version": 0
+      "port-version": 1
     },
     "imgui-sfml": {
       "baseline": "2.5",
@@ -3677,8 +3677,8 @@
       "port-version": 1
     },
     "libharu": {
-      "baseline": "2017-08-15",
-      "port-version": 10
+      "baseline": "2.4.0-rc1",
+      "port-version": 0
     },
     "libhdfs3": {
       "baseline": "2019-11-05",
@@ -3780,6 +3780,10 @@
       "baseline": "1.16.0",
       "port-version": 0
     },
+    "liblsquic": {
+      "baseline": "3.1.1",
+      "port-version": 0
+    },
     "liblzma": {
       "baseline": "5.2.5",
       "port-version": 6
@@ -3808,6 +3812,10 @@
       "baseline": "1.5.0",
       "port-version": 4
     },
+    "libmicrodns": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "libmicrohttpd": {
       "baseline": "0.9.75",
       "port-version": 0
@@ -3833,7 +3841,7 @@
       "port-version": 0
     },
     "libmount": {
-      "baseline": "2.37.2",
+      "baseline": "2.38",
       "port-version": 0
     },
     "libmpeg2": {
@@ -3962,7 +3970,7 @@
     },
     "libproxy": {
       "baseline": "0.4.17",
-      "port-version": 4
+      "port-version": 5
     },
     "libqcow": {
       "baseline": "20210419",
@@ -4082,7 +4090,7 @@
     },
     "libsquish": {
       "baseline": "1.15",
-      "port-version": 10
+      "port-version": 11
     },
     "libsrt": {
       "baseline": "1.4.4",
@@ -6261,7 +6269,7 @@
       "port-version": 0
     },
     "restinio": {
-      "baseline": "0.6.15",
+      "baseline": "0.6.16",
       "port-version": 0
     },
     "rexo": {
@@ -6317,7 +6325,7 @@
       "port-version": 1
     },
     "rsig": {
-      "baseline": "0.1.0",
+      "baseline": "0.1.1",
       "port-version": 0
     },
     "rsm-binary-io": {
@@ -6357,8 +6365,8 @@
       "port-version": 4
     },
     "rxcpp": {
-      "baseline": "4.1.0",
-      "port-version": 2
+      "baseline": "4.1.1",
+      "port-version": 0
     },
     "rxqt": {
       "baseline": "bb2138c",
@@ -7498,7 +7506,7 @@
     },
     "vtk": {
       "baseline": "9.0.3-pv5.9.1",
-      "port-version": 10
+      "port-version": 11
     },
     "vtk-dicom": {
       "baseline": "0.8.12",
@@ -7541,8 +7549,8 @@
       "port-version": 0
     },
     "wavpack": {
-      "baseline": "5.4.0",
-      "port-version": 2
+      "baseline": "5.5.0",
+      "port-version": 0
     },
     "websocketpp": {
       "baseline": "0.8.2",
@@ -7662,7 +7670,7 @@
     },
     "x265": {
       "baseline": "3.4",
-      "port-version": 5
+      "port-version": 6
     },
     "xalan-c": {
       "baseline": "1.12",
