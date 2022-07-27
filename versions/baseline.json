@@ -1166,7 +1166,7 @@
     },
     "brotli": {
       "baseline": "1.0.9",
-      "port-version": 2
+      "port-version": 3
     },
     "brpc": {
       "baseline": "1.2.0",
@@ -1829,7 +1829,7 @@
       "port-version": 0
     },
     "daw-header-libraries": {
-      "baseline": "2.46.2",
+      "baseline": "2.68.1",
       "port-version": 0
     },
     "daw-json-link": {
@@ -1971,6 +1971,10 @@
     "dpdk": {
       "baseline": "22.03",
       "port-version": 1
+    },
+    "dpp": {
+      "baseline": "10.0.15",
+      "port-version": 0
     },
     "draco": {
       "baseline": "1.5.2",
@@ -2386,7 +2390,7 @@
     },
     "freetype": {
       "baseline": "2.12.1",
-      "port-version": 0
+      "port-version": 1
     },
     "freetype-gl": {
       "baseline": "2022-01-17",
@@ -5250,7 +5254,7 @@
     },
     "openssl": {
       "baseline": "3.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "openssl-unix": {
       "baseline": "1.1.1h",
@@ -7406,7 +7410,7 @@
     },
     "vamp-sdk": {
       "baseline": "2.10",
-      "port-version": 3
+      "port-version": 4
     },
     "variant-lite": {
       "baseline": "2.0.0",
