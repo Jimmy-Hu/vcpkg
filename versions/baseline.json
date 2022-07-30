@@ -4078,7 +4078,7 @@
     },
     "libsndfile": {
       "baseline": "1.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libsnoretoast": {
       "baseline": "0.8.0",
@@ -4718,7 +4718,7 @@
     },
     "mpfr": {
       "baseline": "4.1.0",
-      "port-version": 4
+      "port-version": 5
     },
     "mpg123": {
       "baseline": "1.29.3",
@@ -5577,8 +5577,8 @@
       "port-version": 0
     },
     "podofo": {
-      "baseline": "0.9.7",
-      "port-version": 2
+      "baseline": "0.9.8",
+      "port-version": 0
     },
     "poissonrecon": {
       "baseline": "2021-09-26",
