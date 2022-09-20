@@ -3481,7 +3481,7 @@
       "port-version": 0
     },
     "lerc": {
-      "baseline": "3.0",
+      "baseline": "4.0",
       "port-version": 0
     },
     "lest": {
@@ -7068,6 +7068,10 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "stronk": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "strtk": {
       "baseline": "2020-09-14",
       "port-version": 1
@@ -7125,7 +7129,7 @@
       "port-version": 1
     },
     "taskflow": {
-      "baseline": "3.3.0",
+      "baseline": "3.4.0",
       "port-version": 0
     },
     "tbb": {
