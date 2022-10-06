@@ -493,7 +493,7 @@
       "port-version": 1
     },
     "bitmagic": {
-      "baseline": "7.11.2",
+      "baseline": "7.12.3",
       "port-version": 0
     },
     "bitserializer": {
@@ -2071,6 +2071,10 @@
     "easycl": {
       "baseline": "0.3",
       "port-version": 1
+    },
+    "easyexif": {
+      "baseline": "2022-10-07",
+      "port-version": 0
     },
     "easyhook": {
       "baseline": "2.7.7097.0",
