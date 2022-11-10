@@ -1585,7 +1585,7 @@
       "port-version": 1
     },
     "continuable": {
-      "baseline": "4.1.0",
+      "baseline": "4.2.0",
       "port-version": 0
     },
     "convectionkernels": {
@@ -2682,7 +2682,7 @@
     },
     "gmime": {
       "baseline": "3.2.6",
-      "port-version": 2
+      "port-version": 3
     },
     "gmmlib": {
       "baseline": "21.3.2",
@@ -3841,7 +3841,7 @@
       "port-version": 0
     },
     "libidn2": {
-      "baseline": "2.3.1",
+      "baseline": "2.3.4",
       "port-version": 0
     },
     "libigl": {
@@ -4782,7 +4782,7 @@
     },
     "meshoptimizer": {
       "baseline": "0.18",
-      "port-version": 0
+      "port-version": 1
     },
     "metis": {
       "baseline": "2022-07-27",
