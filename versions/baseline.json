@@ -1618,7 +1618,7 @@
     },
     "cpp-jwt": {
       "baseline": "2022-08-27",
-      "port-version": 0
+      "port-version": 1
     },
     "cpp-netlib": {
       "baseline": "0.13.0",
@@ -2594,7 +2594,7 @@
     },
     "getopt-win32": {
       "baseline": "0.1",
-      "port-version": 4
+      "port-version": 5
     },
     "gettext": {
       "baseline": "0.21",
@@ -4481,8 +4481,8 @@
       "port-version": 1
     },
     "libxpm": {
-      "baseline": "3.5.11",
-      "port-version": 2
+      "baseline": "3.5.14",
+      "port-version": 0
     },
     "libxpresent": {
       "baseline": "1.0.0",
@@ -6230,7 +6230,7 @@
     },
     "qt5-webglplugin": {
       "baseline": "5.15.7",
-      "port-version": 0
+      "port-version": 1
     },
     "qt5-websockets": {
       "baseline": "5.15.7",
