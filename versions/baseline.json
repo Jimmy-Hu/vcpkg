@@ -2057,7 +2057,7 @@
       "port-version": 4
     },
     "dxut": {
-      "baseline": "11.29",
+      "baseline": "11.30",
       "port-version": 0
     },
     "eabase": {
@@ -2117,7 +2117,7 @@
       "port-version": 1
     },
     "effects11": {
-      "baseline": "11.28",
+      "baseline": "11.29",
       "port-version": 0
     },
     "effolkronium-random": {
@@ -2129,7 +2129,7 @@
       "port-version": 3
     },
     "egl": {
-      "baseline": "2022-09-20",
+      "baseline": "2022-12-04",
       "port-version": 0
     },
     "egl-registry": {
@@ -2402,7 +2402,7 @@
     },
     "fontconfig": {
       "baseline": "2.14.1",
-      "port-version": 0
+      "port-version": 1
     },
     "foonathan-memory": {
       "baseline": "2019-07-21",
@@ -6698,7 +6698,7 @@
     },
     "rtaudio": {
       "baseline": "2021-11-16",
-      "port-version": 0
+      "port-version": 1
     },
     "rtlsdr": {
       "baseline": "2020-04-16",
@@ -6959,6 +6959,10 @@
     "simbody": {
       "baseline": "2022-01-04",
       "port-version": 2
+    },
+    "simd": {
+      "baseline": "5.1.119",
+      "port-version": 0
     },
     "simde": {
       "baseline": "0.7.2",
