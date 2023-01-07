@@ -122,7 +122,7 @@
     },
     "aom": {
       "baseline": "3.5.0",
-      "port-version": 0
+      "port-version": 1
     },
     "approval-tests-cpp": {
       "baseline": "10.12.2",
@@ -1537,8 +1537,8 @@
       "port-version": 1
     },
     "cocoyaxi": {
-      "baseline": "2.0.3",
-      "port-version": 3
+      "baseline": "3.0.0",
+      "port-version": 0
     },
     "coin": {
       "baseline": "4.0.0",
@@ -1878,7 +1878,7 @@
     },
     "dav1d": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "daw-header-libraries": {
       "baseline": "2.76.2",
@@ -2377,8 +2377,8 @@
       "port-version": 0
     },
     "flatbuffers": {
-      "baseline": "22.10.26",
-      "port-version": 1
+      "baseline": "23.1.4",
+      "port-version": 0
     },
     "flecs": {
       "baseline": "3.1.0",
@@ -2577,7 +2577,7 @@
       "port-version": 0
     },
     "gdal": {
-      "baseline": "3.6.1",
+      "baseline": "3.6.2",
       "port-version": 0
     },
     "gdcm": {
@@ -3273,7 +3273,7 @@
       "port-version": 3
     },
     "jsoncons": {
-      "baseline": "0.168.7",
+      "baseline": "0.169.0",
       "port-version": 0
     },
     "jsoncpp": {
@@ -4817,8 +4817,8 @@
       "port-version": 1
     },
     "mathgl": {
-      "baseline": "2.5",
-      "port-version": 2
+      "baseline": "8.0.1",
+      "port-version": 0
     },
     "matio": {
       "baseline": "1.5.23",
@@ -7889,7 +7889,7 @@
       "port-version": 1
     },
     "vcpkg-cmake-get-vars": {
-      "baseline": "2022-09-04",
+      "baseline": "2022-12-16",
       "port-version": 0
     },
     "vcpkg-get-python-packages": {
@@ -8158,7 +8158,7 @@
     },
     "wxwidgets": {
       "baseline": "3.2.1",
-      "port-version": 3
+      "port-version": 4
     },
     "wyhash": {
       "baseline": "2022-10-12",
@@ -8349,7 +8349,7 @@
       "port-version": 0
     },
     "yyjson": {
-      "baseline": "0.5.1",
+      "baseline": "0.6.0",
       "port-version": 0
     },
     "z3": {
