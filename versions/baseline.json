@@ -3641,8 +3641,8 @@
       "port-version": 4
     },
     "libarchive": {
-      "baseline": "3.6.1",
-      "port-version": 2
+      "baseline": "3.6.2",
+      "port-version": 0
     },
     "libass": {
       "baseline": "0.16.0",
@@ -4901,7 +4901,7 @@
       "port-version": 0
     },
     "mdspan": {
-      "baseline": "0.4.0",
+      "baseline": "0.5.0",
       "port-version": 0
     },
     "mecab": {
@@ -5009,8 +5009,8 @@
       "port-version": 0
     },
     "mio": {
-      "baseline": "2019-02-10",
-      "port-version": 1
+      "baseline": "2023-01-25",
+      "port-version": 0
     },
     "mlpack": {
       "baseline": "4.0.0",
@@ -5918,7 +5918,7 @@
     },
     "pkgconf": {
       "baseline": "1.8.0",
-      "port-version": 4
+      "port-version": 5
     },
     "plasma-wayland-protocols": {
       "baseline": "1.8.0",
@@ -6813,7 +6813,7 @@
       "port-version": 1
     },
     "rtabmap": {
-      "baseline": "0.20.16",
+      "baseline": "0.20.23",
       "port-version": 0
     },
     "rtaudio": {
@@ -7554,7 +7554,7 @@
     },
     "theia": {
       "baseline": "0.8",
-      "port-version": 7
+      "port-version": 8
     },
     "think-cell-range": {
       "baseline": "498839d",
@@ -8229,7 +8229,7 @@
       "port-version": 4
     },
     "wyhash": {
-      "baseline": "2022-10-12",
+      "baseline": "2023-01-25",
       "port-version": 0
     },
     "x-plane": {
