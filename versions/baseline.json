@@ -3606,7 +3606,7 @@
     },
     "lerc": {
       "baseline": "4.0",
-      "port-version": 0
+      "port-version": 1
     },
     "lest": {
       "baseline": "1.35.1",
@@ -4677,8 +4677,8 @@
       "port-version": 1
     },
     "llvm": {
-      "baseline": "14.0.4",
-      "port-version": 1
+      "baseline": "14.0.6",
+      "port-version": 0
     },
     "lmdb": {
       "baseline": "0.9.29",
@@ -8058,7 +8058,7 @@
     },
     "vtk": {
       "baseline": "9.2.0-pv5.11.0",
-      "port-version": 0
+      "port-version": 1
     },
     "vtk-dicom": {
       "baseline": "0.8.14",
