@@ -773,7 +773,6 @@ qt5-webengine:x86-windows=skip
 # Missing system libraries
 qt5-x11extras:x64-osx=fail
 qt5-x11extras:arm64-osx=fail
-qwt:x64-osx=fail
 qwt:arm64-osx=fail
 qwt-qt6:x64-osx=fail
 rabit:arm64-osx=fail
@@ -856,11 +855,6 @@ rtlsdr:arm64-windows=fail
 rtlsdr:arm-uwp=fail
 rtlsdr:x64-linux=fail
 rtlsdr:x64-osx=fail
-
-# ryu does not support VS2022 yet
-ryu:x64-windows=fail
-ryu:x64-windows-static=fail
-ryu:x64-windows-static-md=fail
 
 sciter:arm64-windows=skip
 sciter:arm-uwp=skip

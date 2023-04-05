@@ -197,8 +197,8 @@
       "port-version": 3
     },
     "argumentum": {
-      "baseline": "0.3.1",
-      "port-version": 2
+      "baseline": "0.3.2",
+      "port-version": 0
     },
     "aricpp": {
       "baseline": "1.1.2",
@@ -1429,7 +1429,7 @@
       "port-version": 3
     },
     "cgal": {
-      "baseline": "5.5.1",
+      "baseline": "5.5.2",
       "port-version": 0
     },
     "cgicc": {
@@ -1646,7 +1646,7 @@
     },
     "colmap": {
       "baseline": "2023-03-12",
-      "port-version": 0
+      "port-version": 1
     },
     "color-console": {
       "baseline": "2022-03-20",
@@ -2282,7 +2282,7 @@
     },
     "embree3": {
       "baseline": "3.13.5",
-      "port-version": 1
+      "port-version": 2
     },
     "enet": {
       "baseline": "1.3.17",
@@ -3038,7 +3038,7 @@
     },
     "hdf5": {
       "baseline": "1.14.0",
-      "port-version": 0
+      "port-version": 1
     },
     "healpix": {
       "baseline": "1.12.10",
@@ -3418,7 +3418,7 @@
     },
     "jsonifier": {
       "baseline": "0.9.0",
-      "port-version": 0
+      "port-version": 1
     },
     "jsonnet": {
       "baseline": "0.18.0",
@@ -4229,8 +4229,12 @@
       "port-version": 10
     },
     "libnice": {
-      "baseline": "0.1.18",
-      "port-version": 1
+      "baseline": "0.1.21",
+      "port-version": 0
+    },
+    "libnice-gst": {
+      "baseline": "0.1.21",
+      "port-version": 0
     },
     "libnoise": {
       "baseline": "1.0.0",
@@ -4366,7 +4370,7 @@
     },
     "libraqm": {
       "baseline": "0.9.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libraw": {
       "baseline": "0.21.1",
@@ -4581,8 +4585,8 @@
       "port-version": 2
     },
     "libusb": {
-      "baseline": "1.0.26",
-      "port-version": 3
+      "baseline": "1.0.26.11791",
+      "port-version": 0
     },
     "libusb-win32": {
       "baseline": "1.2.6.0",
@@ -4813,7 +4817,7 @@
       "port-version": 2
     },
     "live555": {
-      "baseline": "2023-01-19",
+      "baseline": "2023-03-30",
       "port-version": 0
     },
     "llfio": {
@@ -5213,8 +5217,8 @@
       "port-version": 0
     },
     "monkeys-audio": {
-      "baseline": "9.04",
-      "port-version": 4
+      "baseline": "10.08",
+      "port-version": 0
     },
     "moos-core": {
       "baseline": "10.4.0",
@@ -5870,7 +5874,7 @@
     },
     "opentelemetry-cpp": {
       "baseline": "1.8.3",
-      "port-version": 1
+      "port-version": 2
     },
     "opentracing": {
       "baseline": "1.6.0",
@@ -6237,8 +6241,8 @@
       "port-version": 1
     },
     "portsmf": {
-      "baseline": "0.238",
-      "port-version": 1
+      "baseline": "239",
+      "port-version": 0
     },
     "ppconsul": {
       "baseline": "0.5",
@@ -6941,7 +6945,7 @@
       "port-version": 0
     },
     "restinio": {
-      "baseline": "0.6.17",
+      "baseline": "0.6.18",
       "port-version": 0
     },
     "rexo": {
@@ -7070,7 +7074,7 @@
     },
     "ryu": {
       "baseline": "2.0",
-      "port-version": 6
+      "port-version": 7
     },
     "s2geometry": {
       "baseline": "0.10.0",
@@ -7194,7 +7198,7 @@
     },
     "seacas": {
       "baseline": "2022-11-22",
-      "port-version": 2
+      "port-version": 3
     },
     "seal": {
       "baseline": "4.1.1",
@@ -7614,7 +7618,7 @@
     },
     "stdexec": {
       "baseline": "2023-03-05",
-      "port-version": 0
+      "port-version": 1
     },
     "stduuid": {
       "baseline": "1.2.2",
@@ -8294,7 +8298,7 @@
     },
     "vtk": {
       "baseline": "9.2.0-pv5.11.0",
-      "port-version": 5
+      "port-version": 6
     },
     "vtk-dicom": {
       "baseline": "0.8.14",
@@ -8309,7 +8313,7 @@
       "port-version": 5
     },
     "vulkan-headers": {
-      "baseline": "1.3.239",
+      "baseline": "1.3.243",
       "port-version": 2
     },
     "vulkan-hpp": {
