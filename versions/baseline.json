@@ -2806,7 +2806,7 @@
     },
     "glew": {
       "baseline": "2.2.0",
-      "port-version": 2
+      "port-version": 3
     },
     "glfw3": {
       "baseline": "3.3.8",
@@ -3011,6 +3011,22 @@
     "gumbo": {
       "baseline": "0.10.1",
       "port-version": 6
+    },
+    "gz-cmake3": {
+      "baseline": "3.0.1",
+      "port-version": 0
+    },
+    "gz-math7": {
+      "baseline": "7.0.2",
+      "port-version": 0
+    },
+    "gz-tools2": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
+    "gz-utils2": {
+      "baseline": "2.0.0",
+      "port-version": 0
     },
     "gzip-hpp": {
       "baseline": "0.1.0",
@@ -5606,7 +5622,7 @@
     },
     "nu-book-zxing-cpp": {
       "baseline": "2.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "nuklear": {
       "baseline": "2022-05-12",
@@ -5974,7 +5990,7 @@
     },
     "osgearth": {
       "baseline": "3.3",
-      "port-version": 6
+      "port-version": 7
     },
     "osi": {
       "baseline": "0.108.6",
@@ -7649,8 +7665,8 @@
       "port-version": 0
     },
     "starlink-ast": {
-      "baseline": "9.2.7",
-      "port-version": 3
+      "baseline": "9.2.10",
+      "port-version": 0
     },
     "staticjson": {
       "baseline": "1.0.0",
