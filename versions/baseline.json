@@ -2977,7 +2977,7 @@
       "port-version": 0
     },
     "gtk3": {
-      "baseline": "3.24.36",
+      "baseline": "3.24.37",
       "port-version": 0
     },
     "gtkmm": {
@@ -3313,7 +3313,7 @@
       "port-version": 1
     },
     "indicators": {
-      "baseline": "2.2",
+      "baseline": "2.3",
       "port-version": 0
     },
     "influxdb-cxx": {
