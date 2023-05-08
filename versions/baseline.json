@@ -3817,7 +3817,7 @@
       "port-version": 0
     },
     "libass": {
-      "baseline": "0.16.0",
+      "baseline": "0.17.1",
       "port-version": 0
     },
     "libassuan": {
@@ -4655,6 +4655,10 @@
     "libuvc": {
       "baseline": "2020-11-24",
       "port-version": 4
+    },
+    "libvault": {
+      "baseline": "0.56.0",
+      "port-version": 0
     },
     "libvmdk": {
       "baseline": "20200926",
