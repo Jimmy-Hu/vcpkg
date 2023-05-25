@@ -1793,7 +1793,7 @@
       "port-version": 2
     },
     "cppgraphqlgen": {
-      "baseline": "4.5.1",
+      "baseline": "4.5.3",
       "port-version": 0
     },
     "cppitertools": {
@@ -2161,8 +2161,8 @@
       "port-version": 1
     },
     "dpp": {
-      "baseline": "10.0.23",
-      "port-version": 1
+      "baseline": "10.0.24",
+      "port-version": 0
     },
     "draco": {
       "baseline": "1.5.6",
@@ -2521,7 +2521,7 @@
       "port-version": 0
     },
     "flatbuffers": {
-      "baseline": "23.3.3",
+      "baseline": "23.5.9",
       "port-version": 0
     },
     "flecs": {
@@ -2562,7 +2562,7 @@
     },
     "folly": {
       "baseline": "2022.10.31.00",
-      "port-version": 6
+      "port-version": 7
     },
     "font-chef": {
       "baseline": "1.1.0",
@@ -2722,7 +2722,7 @@
     },
     "gdal": {
       "baseline": "3.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "gdcm": {
       "baseline": "3.0.22",
@@ -3121,7 +3121,7 @@
       "port-version": 0
     },
     "hidapi": {
-      "baseline": "0.13.1",
+      "baseline": "0.14.0",
       "port-version": 0
     },
     "highfive": {
@@ -3992,6 +3992,14 @@
       "baseline": "2.1.12+20230128",
       "port-version": 0
     },
+    "libeventheader-decode": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
+    "libeventheader-tracepoint": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "libevhtp": {
       "baseline": "1.2.18",
       "port-version": 5
@@ -4622,6 +4630,10 @@
     },
     "libtorrent": {
       "baseline": "2.0.9",
+      "port-version": 0
+    },
+    "libtracepoint": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "libu2f-server": {
@@ -6046,15 +6058,15 @@
     },
     "osg": {
       "baseline": "3.6.5",
-      "port-version": 18
+      "port-version": 19
     },
     "osg-qt": {
       "baseline": "Qt5",
       "port-version": 3
     },
     "osgearth": {
-      "baseline": "3.3",
-      "port-version": 7
+      "baseline": "3.4",
+      "port-version": 0
     },
     "osi": {
       "baseline": "0.108.6",
@@ -6538,7 +6550,7 @@
     },
     "qt5-base": {
       "baseline": "5.15.9",
-      "port-version": 2
+      "port-version": 3
     },
     "qt5-canvas3d": {
       "baseline": "0",
@@ -6642,7 +6654,7 @@
     },
     "qt5-svg": {
       "baseline": "5.15.9",
-      "port-version": 0
+      "port-version": 1
     },
     "qt5-tools": {
       "baseline": "5.15.9",
@@ -7537,7 +7549,7 @@
       "port-version": 0
     },
     "sobjectizer": {
-      "baseline": "5.7.4.2",
+      "baseline": "5.7.4.3",
       "port-version": 0
     },
     "soci": {
@@ -8593,7 +8605,7 @@
       "port-version": 2
     },
     "wmipp": {
-      "baseline": "1.0.0",
+      "baseline": "1.2.0",
       "port-version": 0
     },
     "woff2": {
