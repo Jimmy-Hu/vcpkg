@@ -122,7 +122,7 @@
     },
     "angle": {
       "baseline": "chromium_5414",
-      "port-version": 5
+      "port-version": 6
     },
     "annoy": {
       "baseline": "1.17.2",
@@ -445,11 +445,11 @@
       "port-version": 0
     },
     "azure-storage-blobs-cpp": {
-      "baseline": "12.7.0",
+      "baseline": "12.8.0",
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.3.2",
+      "baseline": "12.3.3",
       "port-version": 0
     },
     "azure-storage-cpp": {
@@ -457,11 +457,11 @@
       "port-version": 5
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.6.0",
+      "baseline": "12.7.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.5.0",
+      "baseline": "12.6.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
@@ -490,7 +490,7 @@
     },
     "baresip-libre": {
       "baseline": "3.2.0",
-      "port-version": 1
+      "port-version": 2
     },
     "basisu": {
       "baseline": "1.11",
@@ -1502,7 +1502,7 @@
     },
     "chipmunk": {
       "baseline": "7.0.3",
-      "port-version": 5
+      "port-version": 6
     },
     "chmlib": {
       "baseline": "0.40",
@@ -2122,7 +2122,7 @@
     },
     "dirent": {
       "baseline": "1.23.2",
-      "port-version": 2
+      "port-version": 3
     },
     "discord-game-sdk": {
       "baseline": "3.2.1",
@@ -2518,7 +2518,7 @@
     },
     "flann": {
       "baseline": "2019-04-07",
-      "port-version": 6
+      "port-version": 7
     },
     "flash-runtime-extensions": {
       "baseline": "2.4",
@@ -3109,7 +3109,7 @@
       "port-version": 1
     },
     "harfbuzz": {
-      "baseline": "7.3.0",
+      "baseline": "8.0.0",
       "port-version": 0
     },
     "hash-library": {
@@ -4030,7 +4030,7 @@
     },
     "libev": {
       "baseline": "4.33",
-      "port-version": 1
+      "port-version": 2
     },
     "libevent": {
       "baseline": "2.1.12+20230128",
@@ -4734,10 +4734,10 @@
     },
     "libuuid": {
       "baseline": "1.0.3",
-      "port-version": 13
+      "port-version": 14
     },
     "libuv": {
-      "baseline": "1.45.0",
+      "baseline": "1.46.0",
       "port-version": 0
     },
     "libuvc": {
@@ -5081,7 +5081,7 @@
       "port-version": 1
     },
     "lunasvg": {
-      "baseline": "2.3.1",
+      "baseline": "2.3.8",
       "port-version": 0
     },
     "luv": {
@@ -5518,7 +5518,7 @@
     },
     "mujoco": {
       "baseline": "2.3.2",
-      "port-version": 0
+      "port-version": 1
     },
     "mujs": {
       "baseline": "1.3.2",
@@ -5549,7 +5549,7 @@
       "port-version": 1
     },
     "nameof": {
-      "baseline": "0.10.2",
+      "baseline": "0.10.3",
       "port-version": 0
     },
     "nana": {
@@ -5657,7 +5657,7 @@
       "port-version": 4
     },
     "nghttp2": {
-      "baseline": "1.54.0",
+      "baseline": "1.55.0",
       "port-version": 0
     },
     "nghttp2-asio": {
@@ -7437,7 +7437,7 @@
       "port-version": 2
     },
     "sentry-native": {
-      "baseline": "0.6.4",
+      "baseline": "0.6.5",
       "port-version": 0
     },
     "septag-dmon": {
@@ -7994,7 +7994,7 @@
     },
     "tesseract": {
       "baseline": "5.3.1",
-      "port-version": 0
+      "port-version": 1
     },
     "tfhe": {
       "baseline": "1.0.1",
@@ -8778,7 +8778,7 @@
     },
     "xcb-proto": {
       "baseline": "1.14.1",
-      "port-version": 0
+      "port-version": 1
     },
     "xcb-render-util": {
       "baseline": "0.3.10",
