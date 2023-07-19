@@ -209,7 +209,7 @@
       "port-version": 0
     },
     "armadillo": {
-      "baseline": "12.0.1",
+      "baseline": "12.4.1",
       "port-version": 0
     },
     "arpack-ng": {
@@ -3321,7 +3321,7 @@
       "port-version": 0
     },
     "igraph": {
-      "baseline": "0.10.5",
+      "baseline": "0.10.6",
       "port-version": 0
     },
     "iir1": {
@@ -4225,7 +4225,7 @@
       "port-version": 0
     },
     "libjxl": {
-      "baseline": "0.8.1",
+      "baseline": "0.8.2",
       "port-version": 0
     },
     "libkeyfinder": {
@@ -5918,7 +5918,7 @@
     },
     "openal-soft": {
       "baseline": "1.23.0",
-      "port-version": 1
+      "port-version": 2
     },
     "openblas": {
       "baseline": "0.3.23",
@@ -7770,7 +7770,7 @@
     },
     "sqlcipher": {
       "baseline": "4.5.3",
-      "port-version": 1
+      "port-version": 2
     },
     "sqlite-modern-cpp": {
       "baseline": "3.2-936cd0c8",
