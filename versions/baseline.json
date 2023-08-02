@@ -1421,8 +1421,8 @@
       "port-version": 2
     },
     "catch2": {
-      "baseline": "3.3.2",
-      "port-version": 1
+      "baseline": "3.4.0",
+      "port-version": 0
     },
     "cccapstone": {
       "baseline": "9b4128ee1153e78288a1b5433e2c06a0d47a4c4e",
@@ -1978,7 +1978,7 @@
     },
     "curlpp": {
       "baseline": "2018-06-15",
-      "port-version": 7
+      "port-version": 8
     },
     "cute-headers": {
       "baseline": "2019-09-20",
@@ -5689,7 +5689,7 @@
       "port-version": 1
     },
     "nghttp3": {
-      "baseline": "0.13.0",
+      "baseline": "0.14.0",
       "port-version": 0
     },
     "ngspice": {
@@ -5697,7 +5697,7 @@
       "port-version": 0
     },
     "ngtcp2": {
-      "baseline": "0.17.0",
+      "baseline": "0.18.0",
       "port-version": 0
     },
     "nifly": {
@@ -6494,7 +6494,7 @@
     },
     "proj": {
       "baseline": "9.2.1",
-      "port-version": 0
+      "port-version": 1
     },
     "proj4": {
       "baseline": "8.9.9",
@@ -7622,7 +7622,7 @@
     },
     "smpeg2": {
       "baseline": "2.0.0",
-      "port-version": 9
+      "port-version": 10
     },
     "snappy": {
       "baseline": "1.1.10",
