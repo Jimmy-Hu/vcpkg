@@ -302,7 +302,7 @@
     },
     "attr": {
       "baseline": "2.5.1",
-      "port-version": 0
+      "port-version": 1
     },
     "aubio": {
       "baseline": "2022-01-26",
@@ -341,51 +341,51 @@
       "port-version": 1
     },
     "aws-c-auth": {
-      "baseline": "0.6.22",
+      "baseline": "0.7.0",
       "port-version": 0
     },
     "aws-c-cal": {
-      "baseline": "0.5.20",
+      "baseline": "0.6.0",
       "port-version": 0
     },
     "aws-c-common": {
-      "baseline": "0.8.9",
-      "port-version": 1
+      "baseline": "0.8.23",
+      "port-version": 0
     },
     "aws-c-compression": {
-      "baseline": "0.2.16",
+      "baseline": "0.2.17",
       "port-version": 0
     },
     "aws-c-event-stream": {
-      "baseline": "0.2.18",
+      "baseline": "0.3.1",
       "port-version": 0
     },
     "aws-c-http": {
-      "baseline": "0.7.3",
+      "baseline": "0.7.10",
       "port-version": 0
     },
     "aws-c-io": {
-      "baseline": "0.13.14",
+      "baseline": "0.13.27",
       "port-version": 0
     },
     "aws-c-mqtt": {
-      "baseline": "0.8.5",
+      "baseline": "0.8.14",
       "port-version": 0
     },
     "aws-c-s3": {
-      "baseline": "0.2.3",
-      "port-version": 1
+      "baseline": "0.3.12",
+      "port-version": 0
     },
     "aws-c-sdkutils": {
-      "baseline": "0.1.7",
+      "baseline": "0.1.11",
       "port-version": 0
     },
     "aws-checksums": {
-      "baseline": "0.1.14",
+      "baseline": "0.1.16",
       "port-version": 0
     },
     "aws-crt-cpp": {
-      "baseline": "0.19.5",
+      "baseline": "0.20.3",
       "port-version": 0
     },
     "aws-lambda-cpp": {
@@ -393,7 +393,7 @@
       "port-version": 1
     },
     "aws-sdk-cpp": {
-      "baseline": "1.11.65",
+      "baseline": "1.11.132",
       "port-version": 0
     },
     "azmq": {
@@ -1357,8 +1357,8 @@
       "port-version": 0
     },
     "c89stringutils": {
-      "baseline": "0.0.1",
-      "port-version": 1
+      "baseline": "0.0.2",
+      "port-version": 0
     },
     "c9y": {
       "baseline": "0.8.0",
@@ -2214,7 +2214,7 @@
     },
     "drogon": {
       "baseline": "1.8.4",
-      "port-version": 3
+      "port-version": 4
     },
     "dstorage": {
       "baseline": "1.2.0",
@@ -4178,7 +4178,7 @@
     },
     "libhdfs3": {
       "baseline": "2019-11-05",
-      "port-version": 4
+      "port-version": 5
     },
     "libheif": {
       "baseline": "1.16.2",
@@ -4534,7 +4534,7 @@
     },
     "librsvg": {
       "baseline": "2.40.20",
-      "port-version": 8
+      "port-version": 9
     },
     "librsync": {
       "baseline": "2.3.2",
@@ -4822,6 +4822,10 @@
     },
     "libxdamage": {
       "baseline": "1.1.5",
+      "port-version": 0
+    },
+    "libxdf": {
+      "baseline": "0.99.8",
       "port-version": 0
     },
     "libxdiff": {
@@ -5407,6 +5411,10 @@
     "mnn": {
       "baseline": "1.1.0",
       "port-version": 5
+    },
+    "modern-cpp-kafka": {
+      "baseline": "2023.03.07",
+      "port-version": 0
     },
     "modp-base64": {
       "baseline": "2020-09-26",
@@ -7201,7 +7209,7 @@
       "port-version": 1
     },
     "rhasheq": {
-      "baseline": "0.0.1",
+      "baseline": "2023-06-17",
       "port-version": 0
     },
     "riffcpp": {
