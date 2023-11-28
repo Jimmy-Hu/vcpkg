@@ -3634,7 +3634,7 @@
     },
     "jkqtplotter": {
       "baseline": "2023-10-24",
-      "port-version": 0
+      "port-version": 1
     },
     "joltphysics": {
       "baseline": "4.0.0",
@@ -7353,8 +7353,8 @@
       "port-version": 0
     },
     "raylib": {
-      "baseline": "4.5.0",
-      "port-version": 2
+      "baseline": "5.0",
+      "port-version": 0
     },
     "rbdl": {
       "baseline": "3.3.0",
@@ -7746,7 +7746,7 @@
     },
     "seal": {
       "baseline": "4.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "seasocks": {
       "baseline": "1.4.6",
