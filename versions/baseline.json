@@ -2086,7 +2086,7 @@
     },
     "darknet": {
       "baseline": "2022-03-06",
-      "port-version": 3
+      "port-version": 4
     },
     "darts-clone": {
       "baseline": "1767ab87cffe",
@@ -7309,8 +7309,8 @@
       "port-version": 3
     },
     "qwt": {
-      "baseline": "6.2.0+20220616",
-      "port-version": 1
+      "baseline": "2023-05-12",
+      "port-version": 0
     },
     "qwtw": {
       "baseline": "3.1.0",
@@ -8878,6 +8878,10 @@
     },
     "vectorclass": {
       "baseline": "2.02.00",
+      "port-version": 0
+    },
+    "veigar": {
+      "baseline": "1.0",
       "port-version": 0
     },
     "verdict": {
