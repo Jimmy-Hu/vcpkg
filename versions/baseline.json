@@ -6338,7 +6338,7 @@
     },
     "openssl": {
       "baseline": "3.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "openssl-unix": {
       "baseline": "deprecated",
@@ -8602,7 +8602,7 @@
     },
     "treehopper": {
       "baseline": "1.11.3",
-      "port-version": 8
+      "port-version": 9
     },
     "triangle": {
       "baseline": "1.6",
