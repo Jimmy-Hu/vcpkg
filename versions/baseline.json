@@ -1337,7 +1337,7 @@
       "port-version": 0
     },
     "bshoshany-thread-pool": {
-      "baseline": "3.5.0",
+      "baseline": "4.0.0",
       "port-version": 0
     },
     "bsio": {
@@ -4646,7 +4646,7 @@
     },
     "libosmium": {
       "baseline": "2.20.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libosmscout": {
       "baseline": "1.1.1",
@@ -8693,7 +8693,7 @@
       "port-version": 2
     },
     "unordered-dense": {
-      "baseline": "4.3.1",
+      "baseline": "4.4.0",
       "port-version": 0
     },
     "unqlite": {
