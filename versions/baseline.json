@@ -2305,7 +2305,7 @@
       "port-version": 0
     },
     "drogon": {
-      "baseline": "1.9.2",
+      "baseline": "1.9.3",
       "port-version": 0
     },
     "dstorage": {
@@ -3661,8 +3661,8 @@
       "port-version": 1
     },
     "jasper": {
-      "baseline": "4.1.0",
-      "port-version": 1
+      "baseline": "4.2.0",
+      "port-version": 0
     },
     "jbig2dec": {
       "baseline": "0.20",
@@ -8681,7 +8681,7 @@
       "port-version": 0
     },
     "trantor": {
-      "baseline": "1.5.16",
+      "baseline": "1.5.17",
       "port-version": 0
     },
     "tre": {
