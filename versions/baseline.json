@@ -25,8 +25,8 @@
       "port-version": 3
     },
     "ace": {
-      "baseline": "7.1.2",
-      "port-version": 1
+      "baseline": "7.1.4",
+      "port-version": 0
     },
     "acl": {
       "baseline": "2.3.1",
@@ -242,7 +242,7 @@
     },
     "arrow": {
       "baseline": "16.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "arsenalgear": {
       "baseline": "2.1.0",
@@ -1446,7 +1446,7 @@
     },
     "cairo": {
       "baseline": "1.18.0",
-      "port-version": 0
+      "port-version": 1
     },
     "cairomm": {
       "baseline": "1.17.1",
@@ -3125,8 +3125,8 @@
       "port-version": 8
     },
     "google-cloud-cpp": {
-      "baseline": "2.22.0",
-      "port-version": 1
+      "baseline": "2.23.0",
+      "port-version": 0
     },
     "google-cloud-cpp-common": {
       "baseline": "alias",
@@ -4806,7 +4806,7 @@
     },
     "libpng": {
       "baseline": "1.6.43",
-      "port-version": 0
+      "port-version": 1
     },
     "libpopt": {
       "baseline": "1.16",
@@ -6385,8 +6385,8 @@
       "port-version": 0
     },
     "openblas": {
-      "baseline": "0.3.26",
-      "port-version": 3
+      "baseline": "0.3.27",
+      "port-version": 0
     },
     "opencascade": {
       "baseline": "7.8.1",
@@ -7974,7 +7974,7 @@
     },
     "seal": {
       "baseline": "4.1.1",
-      "port-version": 1
+      "port-version": 2
     },
     "seasocks": {
       "baseline": "1.4.6",
