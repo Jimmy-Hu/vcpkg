@@ -241,8 +241,8 @@
       "port-version": 5
     },
     "arrow": {
-      "baseline": "16.0.0",
-      "port-version": 1
+      "baseline": "16.1.0",
+      "port-version": 0
     },
     "arsenalgear": {
       "baseline": "2.1.0",
@@ -353,7 +353,7 @@
       "port-version": 2
     },
     "avcpp": {
-      "baseline": "2.3.0",
+      "baseline": "2.3.2",
       "port-version": 0
     },
     "avisynthplus": {
@@ -2969,8 +2969,8 @@
       "port-version": 1
     },
     "gdk-pixbuf": {
-      "baseline": "2.42.10",
-      "port-version": 6
+      "baseline": "2.42.12",
+      "port-version": 0
     },
     "gemmlowp": {
       "baseline": "2021-09-28",
@@ -3057,7 +3057,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "2.6.1",
+      "baseline": "2.6.3",
       "port-version": 0
     },
     "glbinding": {
@@ -3474,7 +3474,7 @@
     },
     "icu": {
       "baseline": "74.2",
-      "port-version": 1
+      "port-version": 2
     },
     "ideviceinstaller": {
       "baseline": "2023-07-21",
@@ -4570,7 +4570,7 @@
     },
     "libjxl": {
       "baseline": "0.10.2",
-      "port-version": 2
+      "port-version": 3
     },
     "libkeyfinder": {
       "baseline": "2.2.8",
@@ -5861,7 +5861,7 @@
       "port-version": 0
     },
     "mp-units": {
-      "baseline": "2.1.0",
+      "baseline": "2.1.1",
       "port-version": 0
     },
     "mp3lame": {
@@ -7150,7 +7150,7 @@
     },
     "qt5-base": {
       "baseline": "5.15.13",
-      "port-version": 1
+      "port-version": 2
     },
     "qt5-canvas3d": {
       "baseline": "0",
@@ -7914,7 +7914,7 @@
     },
     "scnlib": {
       "baseline": "2.0.2",
-      "port-version": 2
+      "port-version": 3
     },
     "scope-guard": {
       "baseline": "1.1.0",
@@ -9413,8 +9413,8 @@
       "port-version": 0
     },
     "wxwidgets": {
-      "baseline": "3.2.4",
-      "port-version": 2
+      "baseline": "3.2.5",
+      "port-version": 0
     },
     "wyhash": {
       "baseline": "2023-12-03",
