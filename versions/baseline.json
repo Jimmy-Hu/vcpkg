@@ -3154,7 +3154,7 @@
     },
     "google-cloud-cpp": {
       "baseline": "2.26.0",
-      "port-version": 0
+      "port-version": 1
     },
     "google-cloud-cpp-common": {
       "baseline": "alias",
@@ -3254,7 +3254,7 @@
     },
     "gtk": {
       "baseline": "4.14.0",
-      "port-version": 0
+      "port-version": 1
     },
     "gtk3": {
       "baseline": "3.24.38",
@@ -8114,7 +8114,7 @@
     },
     "sese": {
       "baseline": "2.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "sf2cute": {
       "baseline": "0.2.0",
