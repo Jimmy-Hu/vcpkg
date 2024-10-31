@@ -1589,7 +1589,7 @@
       "port-version": 6
     },
     "cgal": {
-      "baseline": "6.0",
+      "baseline": "6.0.1",
       "port-version": 0
     },
     "cgicc": {
@@ -2385,7 +2385,7 @@
       "port-version": 0
     },
     "dpp": {
-      "baseline": "10.0.33",
+      "baseline": "10.0.34",
       "port-version": 0
     },
     "draco": {
@@ -2717,7 +2717,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2024.10.14.00",
+      "baseline": "2024.10.21.00",
       "port-version": 0
     },
     "fcl": {
@@ -2769,7 +2769,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2024.10.14.00",
+      "baseline": "2024.10.21.00",
       "port-version": 0
     },
     "flagpp": {
@@ -2853,8 +2853,8 @@
       "port-version": 1
     },
     "folly": {
-      "baseline": "2024.10.14.00",
-      "port-version": 1
+      "baseline": "2024.10.21.00",
+      "port-version": 0
     },
     "font-chef": {
       "baseline": "1.1.0",
@@ -4186,7 +4186,7 @@
     },
     "launch-darkly-server": {
       "baseline": "2.9.3",
-      "port-version": 0 
+      "port-version": 0
     },
     "lazy-importer": {
       "baseline": "2023-08-03",
@@ -4717,8 +4717,8 @@
       "port-version": 2
     },
     "libleidenalg": {
-      "baseline": "0.10.0",
-      "port-version": 1
+      "baseline": "0.11.1",
+      "port-version": 0
     },
     "liblemon": {
       "baseline": "2019-06-13",
@@ -6173,12 +6173,12 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2024.10.14.00",
+      "baseline": "2024.10.21.00",
       "port-version": 0
     },
     "mygui": {
       "baseline": "3.4.3",
-      "port-version": 1
+      "port-version": 2
     },
     "mysql-connector-cpp": {
       "baseline": "8.0.32",
@@ -7209,7 +7209,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2024.10.14.00",
+      "baseline": "2024.10.21.00",
       "port-version": 0
     },
     "psimd": {
@@ -8269,7 +8269,7 @@
       "port-version": 0
     },
     "shader-slang": {
-      "baseline": "2024.11",
+      "baseline": "2024.14.3",
       "port-version": 0
     },
     "shaderc": {
@@ -8598,7 +8598,7 @@
     },
     "sqlite3": {
       "baseline": "3.47.0",
-      "port-version": 0
+      "port-version": 1
     },
     "sqlitecpp": {
       "baseline": "3.3.2",
@@ -8701,7 +8701,7 @@
       "port-version": 0
     },
     "strong-type": {
-      "baseline": "14",
+      "baseline": "15",
       "port-version": 0
     },
     "stronk": {
@@ -8957,7 +8957,7 @@
       "port-version": 0
     },
     "tinyorm": {
-      "baseline": "0.37.3",
+      "baseline": "0.38.1",
       "port-version": 0
     },
     "tinyply": {
@@ -9525,7 +9525,7 @@
       "port-version": 5
     },
     "wangle": {
-      "baseline": "2024.10.14.00",
+      "baseline": "2024.10.21.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -9629,8 +9629,8 @@
       "port-version": 0
     },
     "wolfssl": {
-      "baseline": "5.7.2",
-      "port-version": 3
+      "baseline": "5.7.4",
+      "port-version": 0
     },
     "wolftpm": {
       "baseline": "3.4.0",
