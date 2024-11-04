@@ -794,7 +794,7 @@
     },
     "boost-build": {
       "baseline": "1.86.0",
-      "port-version": 0
+      "port-version": 1
     },
     "boost-callable-traits": {
       "baseline": "1.86.0",
@@ -1457,7 +1457,7 @@
       "port-version": 6
     },
     "c-ares": {
-      "baseline": "1.34.1",
+      "baseline": "1.34.2",
       "port-version": 0
     },
     "c-dbg-macro": {
@@ -2305,7 +2305,7 @@
       "port-version": 0
     },
     "directxmesh": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxsdk": {
@@ -2313,15 +2313,15 @@
       "port-version": 8
     },
     "directxtex": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxtk": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxtk12": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "dirent": {
@@ -2741,8 +2741,8 @@
       "port-version": 0
     },
     "ffmpeg": {
-      "baseline": "7.0.2",
-      "port-version": 7
+      "baseline": "7.1",
+      "port-version": 0
     },
     "ffnvcodec": {
       "baseline": "12.2.72.0",
@@ -3413,8 +3413,8 @@
       "port-version": 0
     },
     "halide": {
-      "baseline": "17.0.1",
-      "port-version": 1
+      "baseline": "18.0.0",
+      "port-version": 0
     },
     "happly": {
       "baseline": "2021-03-19",
@@ -7994,7 +7994,7 @@
     },
     "rsm-bsa": {
       "baseline": "4.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "rsm-mmio": {
       "baseline": "2.0.0",
@@ -9257,7 +9257,7 @@
       "port-version": 1
     },
     "uvatlas": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-29",
       "port-version": 0
     },
     "uvw": {
