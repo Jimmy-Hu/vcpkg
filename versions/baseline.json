@@ -184,6 +184,10 @@
       "baseline": "0.11.0",
       "port-version": 0
     },
+    "aravis": {
+      "baseline": "0.8.34",
+      "port-version": 0
+    },
     "arb": {
       "baseline": "2.21.1",
       "port-version": 2
@@ -246,6 +250,10 @@
     },
     "arrow": {
       "baseline": "19.0.1",
+      "port-version": 0
+    },
+    "arrow-adbc": {
+      "baseline": "16",
       "port-version": 0
     },
     "arsenalgear": {
@@ -521,7 +529,7 @@
       "port-version": 1
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.9.0",
+      "baseline": "12.10.0",
       "port-version": 0
     },
     "azure-storage-cpp": {
@@ -533,7 +541,7 @@
       "port-version": 1
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.12.0",
+      "baseline": "12.13.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
@@ -2828,6 +2836,10 @@
       "baseline": "1.2.1",
       "port-version": 0
     },
+    "flatcc": {
+      "baseline": "0.6.1",
+      "port-version": 0
+    },
     "flecs": {
       "baseline": "4.0.4",
       "port-version": 0
@@ -3038,6 +3050,10 @@
     },
     "gdal": {
       "baseline": "3.10.2",
+      "port-version": 0
+    },
+    "gdbm": {
+      "baseline": "1.24",
       "port-version": 0
     },
     "gdcm": {
@@ -3558,7 +3574,7 @@
     },
     "highfive": {
       "baseline": "2.10.1",
-      "port-version": 0
+      "port-version": 1
     },
     "highs": {
       "baseline": "1.9.0",
@@ -4938,7 +4954,7 @@
     },
     "libogg": {
       "baseline": "1.3.5",
-      "port-version": 1
+      "port-version": 2
     },
     "libopenmpt": {
       "baseline": "0.7.13",
@@ -6292,6 +6308,10 @@
       "baseline": "2.0.1",
       "port-version": 2
     },
+    "nanoarrow": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "nanobench": {
       "baseline": "4.3.11",
       "port-version": 0
@@ -6722,7 +6742,7 @@
     },
     "opencv": {
       "baseline": "4.10.0",
-      "port-version": 2
+      "port-version": 3
     },
     "opencv2": {
       "baseline": "2.4.13.7",
@@ -6734,7 +6754,7 @@
     },
     "opencv4": {
       "baseline": "4.10.0",
-      "port-version": 5
+      "port-version": 6
     },
     "opendnp3": {
       "baseline": "3.1.1",
@@ -8430,7 +8450,7 @@
     },
     "sfml": {
       "baseline": "3.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "sfsexp": {
       "baseline": "1.4.1",
@@ -9726,7 +9746,7 @@
     },
     "vulkan-headers": {
       "baseline": "1.4.304.1",
-      "port-version": 0
+      "port-version": 1
     },
     "vulkan-hpp": {
       "baseline": "deprecated",
@@ -10101,7 +10121,7 @@
       "port-version": 4
     },
     "yalantinglibs": {
-      "baseline": "0.3.11",
+      "baseline": "0.4.0",
       "port-version": 0
     },
     "yaml-cpp": {
