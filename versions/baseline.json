@@ -4860,6 +4860,10 @@
       "baseline": "3.4.1",
       "port-version": 0
     },
+    "libmatio-cpp": {
+      "baseline": "0.3.0",
+      "port-version": 0
+    },
     "libmaxminddb": {
       "baseline": "1.12.2",
       "port-version": 0
@@ -6665,7 +6669,7 @@
       "port-version": 3
     },
     "ocilib": {
-      "baseline": "4.7.6",
+      "baseline": "4.7.7",
       "port-version": 0
     },
     "octave": {
@@ -8701,7 +8705,7 @@
       "port-version": 0
     },
     "sol2": {
-      "baseline": "3.3.1",
+      "baseline": "3.5.0",
       "port-version": 0
     },
     "solid3": {
