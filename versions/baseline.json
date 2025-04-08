@@ -1437,7 +1437,7 @@
       "port-version": 0
     },
     "buck-yeh-bux": {
-      "baseline": "1.12.2",
+      "baseline": "1.12.3",
       "port-version": 0
     },
     "buck-yeh-bux-sqlite": {
@@ -1830,6 +1830,10 @@
     },
     "color-console": {
       "baseline": "2022-03-20",
+      "port-version": 0
+    },
+    "commata": {
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "comms": {
@@ -3077,8 +3081,8 @@
       "port-version": 0
     },
     "gdal": {
-      "baseline": "3.10.2",
-      "port-version": 1
+      "baseline": "3.10.3",
+      "port-version": 0
     },
     "gdbm": {
       "baseline": "1.24",
