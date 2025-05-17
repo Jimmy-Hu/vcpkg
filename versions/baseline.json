@@ -173,8 +173,8 @@
       "port-version": 0
     },
     "apr": {
-      "baseline": "1.7.5",
-      "port-version": 2
+      "baseline": "1.7.6",
+      "port-version": 0
     },
     "apr-util": {
       "baseline": "1.6.3",
@@ -2750,7 +2750,7 @@
     },
     "fastdds": {
       "baseline": "3.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "fastfeat": {
       "baseline": "391d5e9",
@@ -2945,8 +2945,8 @@
       "port-version": 0
     },
     "foonathan-memory": {
-      "baseline": "0.7.3",
-      "port-version": 2
+      "baseline": "0.7.4",
+      "port-version": 0
     },
     "forge": {
       "baseline": "1.0.8",
@@ -5402,7 +5402,7 @@
     },
     "libtorch": {
       "baseline": "2.1.2",
-      "port-version": 11
+      "port-version": 12
     },
     "libtorrent": {
       "baseline": "2.0.11",
@@ -6518,7 +6518,7 @@
     },
     "ncurses": {
       "baseline": "6.4",
-      "port-version": 2
+      "port-version": 3
     },
     "ndis-driver-library": {
       "baseline": "1.2.0",
@@ -7145,7 +7145,7 @@
       "port-version": 9
     },
     "pcapplusplus": {
-      "baseline": "24.9",
+      "baseline": "25.5",
       "port-version": 0
     },
     "pcg": {
@@ -7317,11 +7317,11 @@
       "port-version": 5
     },
     "plutosvg": {
-      "baseline": "0.0.6",
-      "port-version": 1
+      "baseline": "0.0.7",
+      "port-version": 0
     },
     "plutovg": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "pmdk": {
@@ -8542,7 +8542,7 @@
     },
     "sdl3-ttf": {
       "baseline": "3.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "seacas": {
       "baseline": "2022-11-22",
