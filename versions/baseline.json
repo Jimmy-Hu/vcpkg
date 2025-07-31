@@ -1842,7 +1842,7 @@
     },
     "coin": {
       "baseline": "4.0.4",
-      "port-version": 1
+      "port-version": 2
     },
     "coin-or-buildtools": {
       "baseline": "2023-02-02",
@@ -5025,7 +5025,7 @@
       "port-version": 0
     },
     "libmediainfo": {
-      "baseline": "25.4",
+      "baseline": "25.7",
       "port-version": 0
     },
     "libmem": {
@@ -6033,7 +6033,7 @@
       "port-version": 13
     },
     "mailio": {
-      "baseline": "0.25.1",
+      "baseline": "0.25.3",
       "port-version": 0
     },
     "makeid": {
@@ -7005,7 +7005,7 @@
       "port-version": 1
     },
     "openexr": {
-      "baseline": "3.3.4",
+      "baseline": "3.3.5",
       "port-version": 0
     },
     "openfbx": {
@@ -10509,7 +10509,7 @@
       "port-version": 4
     },
     "yalantinglibs": {
-      "baseline": "0.5.0",
+      "baseline": "0.5.3",
       "port-version": 0
     },
     "yaml-cpp": {
