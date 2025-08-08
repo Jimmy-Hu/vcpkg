@@ -437,7 +437,7 @@
       "port-version": 0
     },
     "aws-c-common": {
-      "baseline": "0.12.3",
+      "baseline": "0.12.4",
       "port-version": 0
     },
     "aws-c-compression": {
@@ -1518,7 +1518,7 @@
     },
     "c-ares": {
       "baseline": "1.34.5",
-      "port-version": 0
+      "port-version": 1
     },
     "c-dbg-macro": {
       "baseline": "2020-02-29",
@@ -6878,7 +6878,7 @@
     },
     "octave": {
       "baseline": "10.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "octomap": {
       "baseline": "1.10.0",
@@ -7041,8 +7041,8 @@
       "port-version": 4
     },
     "openimageio": {
-      "baseline": "3.0.8.0",
-      "port-version": 2
+      "baseline": "3.0.9.0",
+      "port-version": 0
     },
     "openjpeg": {
       "baseline": "2.5.3",
@@ -7113,7 +7113,7 @@
       "port-version": 0
     },
     "openvino": {
-      "baseline": "2025.1.0",
+      "baseline": "2025.2.0",
       "port-version": 0
     },
     "openvpn3": {
