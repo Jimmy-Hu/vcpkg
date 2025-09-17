@@ -1548,6 +1548,10 @@
       "baseline": "2025.05.19.00",
       "port-version": 0
     },
+    "cadons-ctus": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "caf": {
       "baseline": "1.0.2",
       "port-version": 0
@@ -4568,10 +4572,6 @@
       "baseline": "2024-11-30",
       "port-version": 0
     },
-    "libbf": {
-      "baseline": "1.0.0",
-      "port-version": 4
-    },
     "libbson": {
       "baseline": "1.30.3",
       "port-version": 0
@@ -5485,7 +5485,7 @@
       "port-version": 2
     },
     "libtcod": {
-      "baseline": "2.1.1",
+      "baseline": "2.2.1",
       "port-version": 0
     },
     "libtess2": {
@@ -5717,8 +5717,8 @@
       "port-version": 0
     },
     "libxml2": {
-      "baseline": "2.14.5",
-      "port-version": 1
+      "baseline": "2.14.6",
+      "port-version": 0
     },
     "libxmlb": {
       "baseline": "0.3.23",
@@ -10025,7 +10025,7 @@
       "port-version": 0
     },
     "vcpkg-make": {
-      "baseline": "2025-08-21",
+      "baseline": "2025-09-14",
       "port-version": 0
     },
     "vcpkg-msbuild": {
