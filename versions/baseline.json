@@ -477,7 +477,7 @@
       "port-version": 0
     },
     "aws-crt-cpp": {
-      "baseline": "0.34.1",
+      "baseline": "0.34.4",
       "port-version": 0
     },
     "aws-lambda-cpp": {
@@ -2757,7 +2757,7 @@
       "port-version": 0
     },
     "expat": {
-      "baseline": "2.7.1",
+      "baseline": "2.7.2",
       "port-version": 0
     },
     "expected-lite": {
@@ -5622,7 +5622,7 @@
     },
     "libvpx": {
       "baseline": "1.15.2",
-      "port-version": 1
+      "port-version": 2
     },
     "libwandio": {
       "baseline": "4.2.6-1",
@@ -8369,7 +8369,7 @@
       "port-version": 0
     },
     "rerun-sdk": {
-      "baseline": "0.24.1",
+      "baseline": "0.25.0",
       "port-version": 0
     },
     "rest-rpc": {
@@ -8765,8 +8765,8 @@
       "port-version": 2
     },
     "sentry-native": {
-      "baseline": "0.10.0",
-      "port-version": 1
+      "baseline": "0.11.0",
+      "port-version": 0
     },
     "septag-dmon": {
       "baseline": "2022-02-08",
