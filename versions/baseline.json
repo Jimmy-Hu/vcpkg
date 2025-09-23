@@ -1789,7 +1789,7 @@
       "port-version": 0
     },
     "clickhouse-cpp": {
-      "baseline": "2.5.1",
+      "baseline": "2.6.0",
       "port-version": 0
     },
     "clipboardxx": {
@@ -4657,8 +4657,8 @@
       "port-version": 0
     },
     "libczi": {
-      "baseline": "0.66.6",
-      "port-version": 1
+      "baseline": "0.67.0",
+      "port-version": 0
     },
     "libdatachannel": {
       "baseline": "0.23.2",
@@ -4965,7 +4965,7 @@
       "port-version": 2
     },
     "libjpeg-turbo": {
-      "baseline": "3.1.1",
+      "baseline": "3.1.2",
       "port-version": 0
     },
     "libjuice": {
@@ -10441,7 +10441,7 @@
       "port-version": 1
     },
     "x86-simd-sort": {
-      "baseline": "5.0",
+      "baseline": "7.0",
       "port-version": 0
     },
     "xapian": {
