@@ -81,7 +81,7 @@
       "port-version": 7
     },
     "alembic": {
-      "baseline": "1.8.8",
+      "baseline": "1.8.10",
       "port-version": 0
     },
     "aliyun-oss-c-sdk": {
@@ -362,7 +362,7 @@
     },
     "atl": {
       "baseline": "0",
-      "port-version": 0
+      "port-version": 1
     },
     "atliac-minitest": {
       "baseline": "1.0.0",
@@ -370,7 +370,7 @@
     },
     "atlmfc": {
       "baseline": "0",
-      "port-version": 3
+      "port-version": 4
     },
     "atomic-queue": {
       "baseline": "1.7.1",
@@ -2789,7 +2789,7 @@
       "port-version": 0
     },
     "expected-lite": {
-      "baseline": "0.9.0",
+      "baseline": "0.10.0",
       "port-version": 0
     },
     "exprtk": {
@@ -5890,7 +5890,7 @@
     },
     "libzim": {
       "baseline": "9.4.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libzip": {
       "baseline": "1.11.4",
@@ -6077,7 +6077,7 @@
       "port-version": 1
     },
     "luau": {
-      "baseline": "0.699",
+      "baseline": "0.700",
       "port-version": 0
     },
     "luminoengine": {
@@ -6485,7 +6485,7 @@
       "port-version": 0
     },
     "mongoose": {
-      "baseline": "7.19",
+      "baseline": "7.20",
       "port-version": 0
     },
     "monkeys-audio": {
@@ -7309,7 +7309,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "4.3.0",
+      "baseline": "4.4.0",
       "port-version": 0
     },
     "orc": {
@@ -7601,7 +7601,7 @@
       "port-version": 0
     },
     "plutovg": {
-      "baseline": "1.3.1",
+      "baseline": "1.3.2",
       "port-version": 0
     },
     "pmdk": {
@@ -8526,7 +8526,7 @@
     },
     "rewolf-wow64ext": {
       "baseline": "1.0.0.9",
-      "port-version": 0
+      "port-version": 1
     },
     "rexo": {
       "baseline": "0.2.2",
@@ -9025,7 +9025,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "7.5.0",
+      "baseline": "7.6.0",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
@@ -9129,7 +9129,7 @@
       "port-version": 0
     },
     "sobjectizer": {
-      "baseline": "5.8.4",
+      "baseline": "5.8.5",
       "port-version": 0
     },
     "soci": {
@@ -9789,7 +9789,7 @@
       "port-version": 0
     },
     "tinyproto": {
-      "baseline": "1.1.0",
+      "baseline": "1.1.1",
       "port-version": 0
     },
     "tinyspline": {
@@ -10578,7 +10578,7 @@
     },
     "wtl": {
       "baseline": "10.0.10320",
-      "port-version": 4
+      "port-version": 5
     },
     "wxchartdir": {
       "baseline": "2.0.0",
