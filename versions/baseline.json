@@ -2869,7 +2869,7 @@
       "port-version": 5
     },
     "fastdds": {
-      "baseline": "3.3.0",
+      "baseline": "3.4.1",
       "port-version": 0
     },
     "fastfeat": {
@@ -4673,7 +4673,7 @@
       "port-version": 0
     },
     "libcgroup": {
-      "baseline": "3.1.0",
+      "baseline": "3.2.0",
       "port-version": 0
     },
     "libcoap": {
@@ -9457,7 +9457,7 @@
       "port-version": 1
     },
     "stringzilla": {
-      "baseline": "4.2.3",
+      "baseline": "4.4.0",
       "port-version": 0
     },
     "strong-type": {
