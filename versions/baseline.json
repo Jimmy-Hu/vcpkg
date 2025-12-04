@@ -489,7 +489,7 @@
       "port-version": 0
     },
     "aws-sdk-cpp": {
-      "baseline": "1.11.665",
+      "baseline": "1.11.702",
       "port-version": 0
     },
     "azmq": {
@@ -1717,8 +1717,8 @@
       "port-version": 8
     },
     "chromaprint": {
-      "baseline": "1.5.1",
-      "port-version": 1
+      "baseline": "1.6.0",
+      "port-version": 0
     },
     "chronoengine": {
       "baseline": "8.0.0",
@@ -1733,8 +1733,8 @@
       "port-version": 0
     },
     "cinatra": {
-      "baseline": "0.9.5",
-      "port-version": 1
+      "baseline": "0.9.6",
+      "port-version": 0
     },
     "cista": {
       "baseline": "0.16",
@@ -2081,7 +2081,7 @@
       "port-version": 0
     },
     "cppp-reiconv": {
-      "baseline": "2.1.0",
+      "baseline": "3.0.0",
       "port-version": 0
     },
     "cpprealm": {
@@ -2361,7 +2361,7 @@
       "port-version": 1
     },
     "daxa": {
-      "baseline": "3.0.3",
+      "baseline": "3.3.1",
       "port-version": 0
     },
     "dbg-macro": {
@@ -3385,7 +3385,7 @@
       "port-version": 3
     },
     "glslang": {
-      "baseline": "15.1.0",
+      "baseline": "16.1.0",
       "port-version": 0
     },
     "glui": {
@@ -5566,7 +5566,7 @@
     },
     "libsystemd": {
       "baseline": "257.8",
-      "port-version": 0
+      "port-version": 1
     },
     "libtar": {
       "baseline": "1.2.20",
@@ -7342,7 +7342,7 @@
     },
     "orange-math": {
       "baseline": "4.4.0",
-      "port-version": 0
+      "port-version": 1
     },
     "orc": {
       "baseline": "2.1.0",
@@ -8754,7 +8754,7 @@
     },
     "safetyhook": {
       "baseline": "0.6.9",
-      "port-version": 0
+      "port-version": 1
     },
     "sail": {
       "baseline": "0.9.10",
@@ -8889,8 +8889,8 @@
       "port-version": 12
     },
     "sdl3": {
-      "baseline": "3.2.26",
-      "port-version": 1
+      "baseline": "3.2.28",
+      "port-version": 0
     },
     "sdl3-image": {
       "baseline": "3.2.4",
@@ -10382,7 +10382,7 @@
     },
     "vtk": {
       "baseline": "9.3.0-pv5.12.1",
-      "port-version": 12
+      "port-version": 13
     },
     "vtk-compile-tools": {
       "baseline": "9.3.0-pv5.12.1",
