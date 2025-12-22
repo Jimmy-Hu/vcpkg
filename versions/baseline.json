@@ -101,7 +101,7 @@
       "port-version": 0
     },
     "alpaka": {
-      "baseline": "2.0.0",
+      "baseline": "2.1.1",
       "port-version": 0
     },
     "alsa": {
@@ -1817,7 +1817,7 @@
       "port-version": 2
     },
     "clipper2": {
-      "baseline": "1.5.4",
+      "baseline": "2.0.1",
       "port-version": 0
     },
     "clockutils": {
@@ -2545,7 +2545,7 @@
       "port-version": 1
     },
     "dpp": {
-      "baseline": "10.1.3",
+      "baseline": "10.1.4",
       "port-version": 0
     },
     "draco": {
@@ -6269,8 +6269,8 @@
       "port-version": 7
     },
     "mathter": {
-      "baseline": "2.0.0",
-      "port-version": 1
+      "baseline": "2.0.1",
+      "port-version": 0
     },
     "matio": {
       "baseline": "1.5.29",
@@ -6349,7 +6349,7 @@
       "port-version": 6
     },
     "meshoptimizer": {
-      "baseline": "1.0",
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "metis": {
@@ -7005,8 +7005,8 @@
       "port-version": 0
     },
     "nvidia-cutlass": {
-      "baseline": "4.3.1",
-      "port-version": 1
+      "baseline": "4.3.3",
+      "port-version": 0
     },
     "nvtt": {
       "baseline": "2.1.2",
@@ -7361,7 +7361,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "4.5.0",
+      "baseline": "4.5.1",
       "port-version": 0
     },
     "orc": {
@@ -7401,7 +7401,7 @@
       "port-version": 0
     },
     "otl": {
-      "baseline": "4.0.495",
+      "baseline": "4.0.496",
       "port-version": 0
     },
     "outcome": {
@@ -9089,7 +9089,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "7.7.0",
+      "baseline": "7.7.1",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
