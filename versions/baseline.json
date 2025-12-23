@@ -3009,7 +3009,7 @@
       "port-version": 1
     },
     "flatbush": {
-      "baseline": "1.3.0",
+      "baseline": "1.3.1",
       "port-version": 0
     },
     "flatcc": {
@@ -4165,8 +4165,8 @@
       "port-version": 0
     },
     "jwsung91-unilink": {
-      "baseline": "0.1.9",
-      "port-version": 1
+      "baseline": "0.2.1",
+      "port-version": 0
     },
     "jwt-cpp": {
       "baseline": "0.7.1",
@@ -4511,10 +4511,6 @@
     "lcms": {
       "baseline": "2.17",
       "port-version": 0
-    },
-    "leaf": {
-      "baseline": "0.2.2",
-      "port-version": 2
     },
     "lely-core": {
       "baseline": "2.3.5",
@@ -5402,7 +5398,7 @@
     },
     "libraqm": {
       "baseline": "0.10.3",
-      "port-version": 0
+      "port-version": 1
     },
     "libraw": {
       "baseline": "0.21.4",
@@ -6065,7 +6061,7 @@
       "port-version": 0
     },
     "lua": {
-      "baseline": "5.4.8",
+      "baseline": "5.5.0",
       "port-version": 0
     },
     "lua-compat53": {
@@ -6082,7 +6078,7 @@
     },
     "luafilesystem": {
       "baseline": "1.8.0",
-      "port-version": 7
+      "port-version": 8
     },
     "luajit": {
       "baseline": "2023-01-04",
@@ -7369,7 +7365,7 @@
       "port-version": 0
     },
     "orefkov-simstr": {
-      "baseline": "1.2.7",
+      "baseline": "1.2.9",
       "port-version": 0
     },
     "orocos-kdl": {
@@ -8226,7 +8222,7 @@
     },
     "qtkeychain-qt6": {
       "baseline": "0.14.3",
-      "port-version": 0
+      "port-version": 1
     },
     "qtlanguageserver": {
       "baseline": "6.9.3",
@@ -8561,7 +8557,7 @@
       "port-version": 0
     },
     "rerun-sdk": {
-      "baseline": "0.27.3",
+      "baseline": "0.28.1",
       "port-version": 0
     },
     "rest-rpc": {
@@ -10153,7 +10149,7 @@
       "port-version": 0
     },
     "usearch": {
-      "baseline": "2.21.4",
+      "baseline": "2.22.0",
       "port-version": 0
     },
     "usockets": {
@@ -10925,7 +10921,7 @@
       "port-version": 1
     },
     "zint": {
-      "baseline": "2.15.0",
+      "baseline": "2.16.0",
       "port-version": 0
     },
     "zix": {
