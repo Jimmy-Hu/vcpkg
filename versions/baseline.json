@@ -1641,7 +1641,7 @@
       "port-version": 0
     },
     "cddlib": {
-      "baseline": "0.94m",
+      "baseline": "0.94n",
       "port-version": 0
     },
     "cdt": {
@@ -5745,7 +5745,7 @@
       "port-version": 4
     },
     "libxau": {
-      "baseline": "1.0.9",
+      "baseline": "1.0.12",
       "port-version": 0
     },
     "libxaw": {
@@ -5785,7 +5785,7 @@
       "port-version": 0
     },
     "libxfixes": {
-      "baseline": "6.0.0",
+      "baseline": "6.0.2",
       "port-version": 0
     },
     "libxfont": {
@@ -5797,7 +5797,7 @@
       "port-version": 0
     },
     "libxi": {
-      "baseline": "1.8",
+      "baseline": "1.8.2",
       "port-version": 0
     },
     "libxinerama": {
@@ -5813,7 +5813,7 @@
       "port-version": 0
     },
     "libxlsxwriter": {
-      "baseline": "1.2.3",
+      "baseline": "1.2.4",
       "port-version": 0
     },
     "libxml2": {
@@ -7453,7 +7453,7 @@
       "port-version": 0
     },
     "parson": {
-      "baseline": "2023-10-31",
+      "baseline": "1.5.3",
       "port-version": 0
     },
     "pbc": {
@@ -9137,7 +9137,7 @@
       "port-version": 0
     },
     "slick-logger": {
-      "baseline": "1.0.2",
+      "baseline": "1.0.4",
       "port-version": 0
     },
     "slick-net": {
