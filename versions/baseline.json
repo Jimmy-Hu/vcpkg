@@ -209,7 +209,7 @@
       "port-version": 2
     },
     "arcticdb-sparrow": {
-      "baseline": "2.0.0",
+      "baseline": "2.1.0",
       "port-version": 0
     },
     "arcticdb-sparrow-extensions": {
@@ -465,7 +465,7 @@
       "port-version": 0
     },
     "aws-c-io": {
-      "baseline": "0.25.0",
+      "baseline": "0.26.0",
       "port-version": 0
     },
     "aws-c-mqtt": {
@@ -573,11 +573,11 @@
       "port-version": 4
     },
     "azure-storage-blobs-cpp": {
-      "baseline": "12.15.0",
+      "baseline": "12.16.0",
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.11.0",
+      "baseline": "12.12.0",
       "port-version": 0
     },
     "azure-storage-cpp": {
@@ -585,15 +585,15 @@
       "port-version": 8
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.13.0",
+      "baseline": "12.14.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.15.0",
+      "baseline": "12.16.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
-      "baseline": "12.5.0",
+      "baseline": "12.6.0",
       "port-version": 0
     },
     "azure-uamqp-c": {
@@ -1685,8 +1685,8 @@
       "port-version": 0
     },
     "cgns": {
-      "baseline": "4.5.0",
-      "port-version": 1
+      "baseline": "4.5.1",
+      "port-version": 0
     },
     "chaiscript": {
       "baseline": "6.1.0",
@@ -2934,7 +2934,7 @@
     },
     "ffmpeg": {
       "baseline": "8.0.1",
-      "port-version": 0
+      "port-version": 1
     },
     "ffmpeg-bin2c": {
       "baseline": "8.0.1",
@@ -3117,7 +3117,7 @@
       "port-version": 9
     },
     "freerdp": {
-      "baseline": "3.20.0",
+      "baseline": "3.20.2",
       "port-version": 0
     },
     "freetds": {
@@ -6886,7 +6886,7 @@
     },
     "nlohmann-json": {
       "baseline": "3.12.0",
-      "port-version": 1
+      "port-version": 2
     },
     "nlopt": {
       "baseline": "2.10.0",
@@ -6985,7 +6985,7 @@
       "port-version": 0
     },
     "nvidia-cutlass": {
-      "baseline": "4.3.4",
+      "baseline": "4.3.5",
       "port-version": 0
     },
     "nvtt": {
@@ -7077,8 +7077,8 @@
       "port-version": 3
     },
     "ogre": {
-      "baseline": "14.3.2",
-      "port-version": 1
+      "baseline": "14.5.0",
+      "port-version": 0
     },
     "ogre-next": {
       "baseline": "2.3.3",
@@ -7965,8 +7965,8 @@
       "port-version": 0
     },
     "qt-advanced-docking-system": {
-      "baseline": "4.4.1",
-      "port-version": 1
+      "baseline": "4.5.0",
+      "port-version": 0
     },
     "qt3d": {
       "baseline": "6.10.0",
@@ -9081,7 +9081,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "7.7.1",
+      "baseline": "8.0.0",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
@@ -9113,7 +9113,7 @@
       "port-version": 0
     },
     "sjpeg": {
-      "baseline": "2021-10-31",
+      "baseline": "2025-06-04",
       "port-version": 0
     },
     "skcrypter": {
@@ -9682,7 +9682,7 @@
     },
     "taskflow": {
       "baseline": "4.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "tbb": {
       "baseline": "2022.3.0",
@@ -10825,12 +10825,12 @@
       "port-version": 0
     },
     "xtensor-blas": {
-      "baseline": "0.22.0",
+      "baseline": "0.23.0",
       "port-version": 0
     },
     "xtensor-fftw": {
-      "baseline": "2019-11-30",
-      "port-version": 4
+      "baseline": "0.2.6",
+      "port-version": 0
     },
     "xtensor-io": {
       "baseline": "0.13.0",
