@@ -640,6 +640,10 @@
       "baseline": "1.0.0",
       "port-version": 1
     },
+    "bbstrader": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "bcg729": {
       "baseline": "1.1.1",
       "port-version": 4
@@ -1737,7 +1741,7 @@
       "port-version": 0
     },
     "cinatra": {
-      "baseline": "0.9.7",
+      "baseline": "0.9.8",
       "port-version": 0
     },
     "cista": {
@@ -3861,8 +3865,8 @@
       "port-version": 1
     },
     "icu": {
-      "baseline": "78.1",
-      "port-version": 1
+      "baseline": "78.2",
+      "port-version": 0
     },
     "ideviceinstaller": {
       "baseline": "2023-07-21",
@@ -3933,7 +3937,7 @@
       "port-version": 1
     },
     "immer": {
-      "baseline": "0.9.0",
+      "baseline": "0.9.1",
       "port-version": 0
     },
     "implot": {
@@ -4211,6 +4215,10 @@
     "kdstatemachineeditor": {
       "baseline": "2.0.0",
       "port-version": 2
+    },
+    "kdutils": {
+      "baseline": "0.1.12",
+      "port-version": 0
     },
     "kealib": {
       "baseline": "1.6.2",
@@ -5137,7 +5145,7 @@
       "port-version": 0
     },
     "libmem": {
-      "baseline": "5.1.1",
+      "baseline": "5.1.4",
       "port-version": 0
     },
     "libmemcached-awesome": {
@@ -5393,7 +5401,7 @@
       "port-version": 1
     },
     "libraw": {
-      "baseline": "0.21.5",
+      "baseline": "0.22.0",
       "port-version": 0
     },
     "librdkafka": {
@@ -5409,7 +5417,7 @@
       "port-version": 2
     },
     "libressl": {
-      "baseline": "4.2.0",
+      "baseline": "4.2.1",
       "port-version": 0
     },
     "librsvg": {
@@ -6009,7 +6017,7 @@
       "port-version": 0
     },
     "log4cxx": {
-      "baseline": "1.5.0",
+      "baseline": "1.6.1",
       "port-version": 0
     },
     "loguru": {
@@ -7165,7 +7173,7 @@
       "port-version": 1
     },
     "opencolorio": {
-      "baseline": "2.5.0",
+      "baseline": "2.5.1",
       "port-version": 0
     },
     "opencsg": {
@@ -7226,7 +7234,7 @@
     },
     "openimageio": {
       "baseline": "3.0.9.1",
-      "port-version": 2
+      "port-version": 3
     },
     "openjpeg": {
       "baseline": "2.5.4",
@@ -7521,8 +7529,8 @@
       "port-version": 0
     },
     "pffft": {
-      "baseline": "2021-10-09",
-      "port-version": 1
+      "baseline": "1.0.0",
+      "port-version": 0
     },
     "pfring": {
       "baseline": "8.8.0",
@@ -7741,7 +7749,7 @@
       "port-version": 0
     },
     "poselib": {
-      "baseline": "2.0.4",
+      "baseline": "2.0.5",
       "port-version": 0
     },
     "ppconsul": {
@@ -10105,7 +10113,7 @@
       "port-version": 0
     },
     "units": {
-      "baseline": "3.1.1",
+      "baseline": "3.3.0",
       "port-version": 0
     },
     "unittest-cpp": {
