@@ -4521,8 +4521,8 @@
       "port-version": 0
     },
     "lcm": {
-      "baseline": "1.4.0",
-      "port-version": 7
+      "baseline": "1.5.2",
+      "port-version": 0
     },
     "lcms": {
       "baseline": "2.18",
@@ -9547,6 +9547,10 @@
     "stxxl": {
       "baseline": "2018-11-15",
       "port-version": 9
+    },
+    "subversion": {
+      "baseline": "2025-12-23",
+      "port-version": 0
     },
     "suitesparse": {
       "baseline": "7.8.3",
