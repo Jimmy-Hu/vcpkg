@@ -607,7 +607,6 @@ irrxml:arm64-osx = cascade
 irrxml:arm64-uwp = cascade
 irrxml:arm64-windows = cascade
 irrxml:x64-uwp = cascade
-ismrmrd:x64-uwp = cascade
 itay-grudev-singleapplication(uwp) = cascade
 itk[cuda,cufftw]:x86-windows = cascade
 itk[cuda,cufftw](android | osx) = cascade
@@ -1662,3 +1661,6 @@ ms-gdkx:x64-windows-release=skip
 ms-gdkx:x64-windows-static-md=skip
 ms-gdkx:x64-windows-static=skip
 ms-gdkx:x64-windows=skip
+
+# ethindp-prism requires the following as speech-dispatcher is not yet installed on CI machines
+ethindp-prism[speech-dispatcher](linux) = feature-fails
