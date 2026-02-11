@@ -328,7 +328,6 @@ gmsh[mpi]:x64-windows = cascade
 gmsh[mpi]:x64-windows-static = cascade
 gmsh[mpi]:x64-windows-static-md = cascade
 gmsh[mpi]:x86-windows = cascade
-gstreamer[asio](arm | !windows) = cascade
 gstreamer[dc1394](android) = cascade
 gstreamer[wayland](osx | windows) = cascade
 gtk:arm64-windows = cascade
@@ -854,6 +853,3 @@ ms-gdkx:x64-windows-release=skip
 ms-gdkx:x64-windows-static-md=skip
 ms-gdkx:x64-windows-static=skip
 ms-gdkx:x64-windows=skip
-
-# ethindp-prism requires the following as speech-dispatcher is not yet installed on CI machines
-ethindp-prism[speech-dispatcher](linux) = feature-fails
