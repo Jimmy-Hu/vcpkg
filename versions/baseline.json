@@ -198,7 +198,7 @@
     },
     "apr": {
       "baseline": "1.7.6",
-      "port-version": 0
+      "port-version": 1
     },
     "apr-util": {
       "baseline": "1.6.3",
@@ -1520,6 +1520,10 @@
       "baseline": "3.25",
       "port-version": 3
     },
+    "bungee": {
+      "baseline": "2.4.15",
+      "port-version": 0
+    },
     "bustache": {
       "baseline": "1.1.0",
       "port-version": 2
@@ -2445,8 +2449,8 @@
       "port-version": 0
     },
     "detours": {
-      "baseline": "4.0.1",
-      "port-version": 8
+      "baseline": "2025-06-20",
+      "port-version": 0
     },
     "devicenameresolver": {
       "baseline": "2016-06-26",
@@ -2551,6 +2555,10 @@
     "docopt": {
       "baseline": "2022-03-15",
       "port-version": 1
+    },
+    "docraft": {
+      "baseline": "v1.0.0-beta.3",
+      "port-version": 0
     },
     "doctest": {
       "baseline": "2.4.12",
@@ -3114,7 +3122,7 @@
     },
     "folly": {
       "baseline": "2026.02.23.00",
-      "port-version": 0
+      "port-version": 1
     },
     "font-chef": {
       "baseline": "1.1.0",
@@ -3825,7 +3833,7 @@
       "port-version": 1
     },
     "htslib": {
-      "baseline": "1.23",
+      "baseline": "1.23.1",
       "port-version": 0
     },
     "http-parser": {
@@ -4569,7 +4577,7 @@
       "port-version": 3
     },
     "lexbor": {
-      "baseline": "2.6.0",
+      "baseline": "2.7.0",
       "port-version": 0
     },
     "lexilla": {
@@ -6305,7 +6313,7 @@
       "port-version": 3
     },
     "mbedtls": {
-      "baseline": "3.6.4",
+      "baseline": "3.6.5",
       "port-version": 0
     },
     "mcap": {
@@ -6656,6 +6664,10 @@
       "baseline": "10.1.12498.52",
       "port-version": 0
     },
+    "msolve": {
+      "baseline": "0.9.4",
+      "port-version": 0
+    },
     "msquic": {
       "baseline": "2.4.8",
       "port-version": 1
@@ -6893,7 +6905,7 @@
       "port-version": 0
     },
     "nghttp2": {
-      "baseline": "1.68.0",
+      "baseline": "1.68.1",
       "port-version": 0
     },
     "nghttp2-asio": {
@@ -6930,7 +6942,7 @@
     },
     "nlopt": {
       "baseline": "2.10.1",
-      "port-version": 0
+      "port-version": 1
     },
     "nmslib": {
       "baseline": "2.1.1",
@@ -7318,7 +7330,7 @@
     },
     "openssl": {
       "baseline": "3.6.1",
-      "port-version": 2
+      "port-version": 3
     },
     "opensubdiv": {
       "baseline": "3.5.0",
@@ -7513,7 +7525,7 @@
       "port-version": 0
     },
     "patternia": {
-      "baseline": "0.9.0",
+      "baseline": "0.9.1",
       "port-version": 0
     },
     "pbc": {
@@ -8825,7 +8837,7 @@
       "port-version": 2
     },
     "ryml": {
-      "baseline": "0.10.0",
+      "baseline": "0.11.0",
       "port-version": 0
     },
     "ryu": {
@@ -8978,7 +8990,7 @@
     },
     "sdl3": {
       "baseline": "3.4.2",
-      "port-version": 0
+      "port-version": 1
     },
     "sdl3-image": {
       "baseline": "3.4.0",
@@ -9093,7 +9105,7 @@
       "port-version": 1
     },
     "shapelib": {
-      "baseline": "1.6.2",
+      "baseline": "1.6.3",
       "port-version": 0
     },
     "shared-mime-info": {
@@ -9153,7 +9165,7 @@
       "port-version": 0
     },
     "simdjson": {
-      "baseline": "4.4.0",
+      "baseline": "4.4.1",
       "port-version": 0
     },
     "simdutf": {
@@ -9392,9 +9404,13 @@
       "baseline": "2025-01-23",
       "port-version": 0
     },
-    "spine-runtimes": {
-      "baseline": "4.1.0",
-      "port-version": 1
+    "spine-c": {
+      "baseline": "4.2.20260227",
+      "port-version": 0
+    },
+    "spine-cpp": {
+      "baseline": "4.2.20260227",
+      "port-version": 0
     },
     "spirit-po": {
       "baseline": "1.1.2",
