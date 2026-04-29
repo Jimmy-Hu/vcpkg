@@ -249,7 +249,7 @@
       "port-version": 0
     },
     "args": {
-      "baseline": "6.4.12",
+      "baseline": "6.4.13",
       "port-version": 0
     },
     "argtable2": {
@@ -415,10 +415,6 @@
     "aurora-au": {
       "baseline": "0.5.1",
       "port-version": 0
-    },
-    "autobahn": {
-      "baseline": "20.8.1",
-      "port-version": 2
     },
     "autodock-vina": {
       "baseline": "1.2.7",
@@ -895,10 +891,6 @@
     "boost-compat": {
       "baseline": "1.90.0",
       "port-version": 1
-    },
-    "boost-compatibility": {
-      "baseline": "1.86.0",
-      "port-version": 0
     },
     "boost-compute": {
       "baseline": "1.90.0",
@@ -1436,10 +1428,6 @@
       "baseline": "1.90.0",
       "port-version": 1
     },
-    "boost-vcpkg-helpers": {
-      "baseline": "1.84.0",
-      "port-version": 0
-    },
     "boost-vmd": {
       "baseline": "1.90.0",
       "port-version": 1
@@ -1965,8 +1953,8 @@
       "port-version": 0
     },
     "consteig": {
-      "baseline": "1.0.0",
-      "port-version": 1
+      "baseline": "1.1.1",
+      "port-version": 0
     },
     "constexpr": {
       "baseline": "1.0",
@@ -2039,10 +2027,6 @@
     "cpp-lazy": {
       "baseline": "9.0.1",
       "port-version": 0
-    },
-    "cpp-netlib": {
-      "baseline": "0.13.0",
-      "port-version": 10
     },
     "cpp-peglib": {
       "baseline": "1.10.2",
@@ -2753,7 +2737,7 @@
       "port-version": 0
     },
     "efsw": {
-      "baseline": "1.5.1",
+      "baseline": "1.6.1",
       "port-version": 0
     },
     "egl": {
@@ -2831,10 +2815,6 @@
     "esaxx": {
       "baseline": "ca7cb332011ec37",
       "port-version": 1
-    },
-    "etcd-cpp-apiv3": {
-      "baseline": "0.15.4",
-      "port-version": 3
     },
     "ethindp-prism": {
       "baseline": "0.11.6",
@@ -3097,7 +3077,7 @@
       "port-version": 0
     },
     "flint": {
-      "baseline": "3.4.0",
+      "baseline": "3.5.0",
       "port-version": 0
     },
     "fltk": {
@@ -3141,8 +3121,8 @@
       "port-version": 0
     },
     "font-util": {
-      "baseline": "1.4.1",
-      "port-version": 1
+      "baseline": "1.4.2",
+      "port-version": 0
     },
     "fontconfig": {
       "baseline": "2.17.1",
@@ -3180,10 +3160,6 @@
       "baseline": "3.18.0",
       "port-version": 27
     },
-    "freeopcua": {
-      "baseline": "20190125",
-      "port-version": 9
-    },
     "freerdp": {
       "baseline": "3.25.0",
       "port-version": 0
@@ -3217,7 +3193,7 @@
       "port-version": 0
     },
     "frugally-deep": {
-      "baseline": "0.18.2",
+      "baseline": "0.19.2",
       "port-version": 0
     },
     "fruit": {
@@ -3237,7 +3213,7 @@
       "port-version": 0
     },
     "functionalplus": {
-      "baseline": "0.2.27",
+      "baseline": "0.2.28",
       "port-version": 0
     },
     "functions-framework-cpp": {
@@ -3298,10 +3274,6 @@
     },
     "gaussianlib": {
       "baseline": "2024-11-03",
-      "port-version": 0
-    },
-    "gazebo": {
-      "baseline": "11.15.1",
       "port-version": 0
     },
     "gcem": {
@@ -3754,7 +3726,7 @@
     },
     "hazelcast-cpp-client": {
       "baseline": "5.6.0",
-      "port-version": 0
+      "port-version": 1
     },
     "hdf5": {
       "baseline": "2.1.1",
@@ -3785,7 +3757,7 @@
       "port-version": 0
     },
     "hexl": {
-      "baseline": "1.2.5",
+      "baseline": "1.2.6",
       "port-version": 0
     },
     "hffix": {
@@ -4074,7 +4046,7 @@
     },
     "itk": {
       "baseline": "5.4.4",
-      "port-version": 1
+      "port-version": 2
     },
     "itlib": {
       "baseline": "1.12.2",
@@ -4185,7 +4157,7 @@
       "port-version": 7
     },
     "jsoncons": {
-      "baseline": "1.6.0",
+      "baseline": "1.7.0",
       "port-version": 0
     },
     "jsoncpp": {
@@ -5305,7 +5277,7 @@
       "port-version": 1
     },
     "libmultisense": {
-      "baseline": "7.4.0",
+      "baseline": "7.6.0",
       "port-version": 0
     },
     "libmupdf": {
@@ -6266,7 +6238,7 @@
     },
     "magma": {
       "baseline": "2.9.0",
-      "port-version": 1
+      "port-version": 2
     },
     "magnum": {
       "baseline": "2020.06",
@@ -6499,10 +6471,6 @@
     "microlog": {
       "baseline": "7.0.3",
       "port-version": 0
-    },
-    "microsoft-signalr": {
-      "baseline": "0.1.0-alpha4",
-      "port-version": 12
     },
     "microsoft-windows-devices-midi2": {
       "baseline": "1.0.13-preview.13.192",
@@ -6745,7 +6713,7 @@
       "port-version": 0
     },
     "msolve": {
-      "baseline": "0.9.4",
+      "baseline": "0.9.5",
       "port-version": 0
     },
     "msquic": {
@@ -6987,10 +6955,6 @@
     "nghttp2": {
       "baseline": "1.69.0",
       "port-version": 0
-    },
-    "nghttp2-asio": {
-      "baseline": "2022-08-11",
-      "port-version": 2
     },
     "nghttp3": {
       "baseline": "1.15.0",
@@ -7489,7 +7453,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "5.1.1",
+      "baseline": "5.1.2",
       "port-version": 0
     },
     "orange-vmprotect-sdk": {
@@ -8520,10 +8484,6 @@
       "baseline": "1.5",
       "port-version": 0
     },
-    "quickfast": {
-      "baseline": "1.5",
-      "port-version": 5
-    },
     "quickfix": {
       "baseline": "1.15.1",
       "port-version": 9
@@ -9193,7 +9153,7 @@
       "port-version": 0
     },
     "shaderc": {
-      "baseline": "2026.1",
+      "baseline": "2026.2",
       "port-version": 0
     },
     "shaderwriter": {
@@ -9399,10 +9359,6 @@
     "soci": {
       "baseline": "4.0.3",
       "port-version": 3
-    },
-    "socket-io-client": {
-      "baseline": "2023-11-11",
-      "port-version": 0
     },
     "sockpp": {
       "baseline": "1.0.0",
@@ -9677,7 +9633,7 @@
       "port-version": 0
     },
     "stillwater-universal": {
-      "baseline": "4.6.10",
+      "baseline": "4.6.11",
       "port-version": 0
     },
     "stlab": {
@@ -10001,8 +9957,8 @@
       "port-version": 4
     },
     "thrift": {
-      "baseline": "0.22.0",
-      "port-version": 2
+      "baseline": "0.23.0",
+      "port-version": 0
     },
     "tidy-html5": {
       "baseline": "5.8.0",
@@ -10377,7 +10333,7 @@
       "port-version": 0
     },
     "uriparser": {
-      "baseline": "1.0.0",
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "usbmuxd": {
@@ -10881,7 +10837,7 @@
       "port-version": 1
     },
     "wolftpm": {
-      "baseline": "3.10.0",
+      "baseline": "4.0.0",
       "port-version": 0
     },
     "wordnet": {
