@@ -4928,10 +4928,6 @@
       "baseline": "2025-09-25",
       "port-version": 0
     },
-    "libe57": {
-      "baseline": "1.1.337",
-      "port-version": 0
-    },
     "libe57format": {
       "baseline": "3.3.0",
       "port-version": 1
@@ -5029,7 +5025,7 @@
       "port-version": 5
     },
     "libfuse": {
-      "baseline": "3.17.3",
+      "baseline": "3.18.2",
       "port-version": 0
     },
     "libgcrypt": {
@@ -6161,7 +6157,7 @@
       "port-version": 0
     },
     "logme": {
-      "baseline": "2.4.16",
+      "baseline": "2.4.17",
       "port-version": 0
     },
     "loguru": {
@@ -7205,7 +7201,7 @@
       "port-version": 2
     },
     "obfuscxx": {
-      "baseline": "1.3.1",
+      "baseline": "1.3.5",
       "port-version": 0
     },
     "oboe": {
@@ -8877,7 +8873,7 @@
       "port-version": 3
     },
     "rsig": {
-      "baseline": "0.2.0",
+      "baseline": "0.2.1",
       "port-version": 0
     },
     "rsm-binary-io": {
@@ -8990,7 +8986,7 @@
     },
     "salome-med-fichier": {
       "baseline": "4.1.1",
-      "port-version": 3
+      "port-version": 4
     },
     "salome-medcoupling": {
       "baseline": "9.10.0",
@@ -9937,7 +9933,7 @@
       "port-version": 0
     },
     "tdlib": {
-      "baseline": "1.8.63",
+      "baseline": "1.8.64",
       "port-version": 0
     },
     "tdscpp": {
@@ -10562,7 +10558,7 @@
     },
     "vcpkg-tool-meson": {
       "baseline": "1.9.0",
-      "port-version": 7
+      "port-version": 8
     },
     "vcpkg-tool-mozbuild": {
       "baseline": "4.0.2",
