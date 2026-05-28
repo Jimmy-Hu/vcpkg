@@ -8370,7 +8370,7 @@
     },
     "qtconnectivity": {
       "baseline": "6.11.0",
-      "port-version": 0
+      "port-version": 1
     },
     "qtdatavis3d": {
       "baseline": "6.11.0",
@@ -8554,7 +8554,7 @@
     },
     "quickfix": {
       "baseline": "1.16.0",
-      "port-version": 0
+      "port-version": 1
     },
     "quickjs-ng": {
       "baseline": "0.15.0",
