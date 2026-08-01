@@ -181,7 +181,7 @@
       "port-version": 0
     },
     "aom": {
-      "baseline": "3.13.3",
+      "baseline": "3.14.1",
       "port-version": 0
     },
     "apache-datasketches": {
@@ -509,7 +509,7 @@
       "port-version": 0
     },
     "aws-sdk-cpp": {
-      "baseline": "1.11.840",
+      "baseline": "1.11.860",
       "port-version": 0
     },
     "ayush272002-dotenv": {
@@ -2521,11 +2521,11 @@
       "port-version": 0
     },
     "directx-headers": {
-      "baseline": "1.619.4",
+      "baseline": "1.619.5",
       "port-version": 0
     },
     "directx12-agility": {
-      "baseline": "1.619.4",
+      "baseline": "1.619.5",
       "port-version": 0
     },
     "directxmath": {
@@ -3021,7 +3021,7 @@
       "port-version": 0
     },
     "fbgemm": {
-      "baseline": "1.5.0",
+      "baseline": "1.6.0",
       "port-version": 0
     },
     "fbthrift": {
@@ -3501,7 +3501,7 @@
       "port-version": 2
     },
     "gloo": {
-      "baseline": "20251202",
+      "baseline": "20260212",
       "port-version": 0
     },
     "glpk": {
@@ -4814,7 +4814,7 @@
     },
     "libbacktrace": {
       "baseline": "2024-11-30",
-      "port-version": 1
+      "port-version": 2
     },
     "libbluray": {
       "baseline": "1.4.1",
@@ -6901,8 +6901,8 @@
       "port-version": 1
     },
     "mygui": {
-      "baseline": "3.4.3",
-      "port-version": 4
+      "baseline": "3.5.0",
+      "port-version": 0
     },
     "mypaint-brushes": {
       "baseline": "2.0.2",
@@ -7021,31 +7021,31 @@
       "port-version": 0
     },
     "neko-event": {
-      "baseline": "1.0.1",
+      "baseline": "1.0.2",
       "port-version": 0
     },
     "neko-function": {
-      "baseline": "1.0.11",
+      "baseline": "1.0.12",
       "port-version": 0
     },
     "neko-log": {
-      "baseline": "1.0.7",
+      "baseline": "1.0.8",
       "port-version": 0
     },
     "neko-network": {
-      "baseline": "1.0.3",
+      "baseline": "1.0.4",
       "port-version": 0
     },
     "neko-schema": {
-      "baseline": "1.1.5",
+      "baseline": "1.1.6",
       "port-version": 0
     },
     "neko-system": {
       "baseline": "1.0.1",
-      "port-version": 0
+      "port-version": 1
     },
     "neko-threadpool": {
-      "baseline": "1.0.2",
+      "baseline": "1.0.3",
       "port-version": 0
     },
     "neon2sse": {
@@ -7393,8 +7393,8 @@
       "port-version": 0
     },
     "opencascade": {
-      "baseline": "8.0.0",
-      "port-version": 1
+      "baseline": "8.0.1",
+      "port-version": 0
     },
     "opencc": {
       "baseline": "1.1.9",
@@ -9049,7 +9049,7 @@
       "port-version": 0
     },
     "s2n": {
-      "baseline": "1.7.3",
+      "baseline": "1.7.6",
       "port-version": 0
     },
     "safeint": {
@@ -9134,7 +9134,7 @@
     },
     "sdbus-cpp": {
       "baseline": "2.3.1",
-      "port-version": 0
+      "port-version": 1
     },
     "sdflib": {
       "baseline": "2025-11-03",
@@ -9298,7 +9298,7 @@
     },
     "shader-slang": {
       "baseline": "2026.7.1",
-      "port-version": 0
+      "port-version": 1
     },
     "shaderc": {
       "baseline": "2026.2",
@@ -10334,7 +10334,7 @@
     },
     "tracy": {
       "baseline": "0.13.1",
-      "port-version": 0
+      "port-version": 1
     },
     "transwarp": {
       "baseline": "2.2.3",
@@ -10477,7 +10477,7 @@
       "port-version": 2
     },
     "unimail-cpp-sdk": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "units": {
@@ -10534,7 +10534,7 @@
     },
     "usearch": {
       "baseline": "2.25.3",
-      "port-version": 0
+      "port-version": 1
     },
     "usockets": {
       "baseline": "0.8.8",
@@ -11017,7 +11017,7 @@
       "port-version": 0
     },
     "wirestead": {
-      "baseline": "0.9.0",
+      "baseline": "0.9.1",
       "port-version": 0
     },
     "wmipp": {
@@ -11117,8 +11117,8 @@
       "port-version": 0
     },
     "xbitmaps": {
-      "baseline": "1.1.3",
-      "port-version": 1
+      "baseline": "1.1.4",
+      "port-version": 0
     },
     "xbyak": {
       "baseline": "7.28",
@@ -11413,7 +11413,7 @@
       "port-version": 0
     },
     "zxc": {
-      "baseline": "0.13.1",
+      "baseline": "0.13.2",
       "port-version": 0
     },
     "zycore": {
