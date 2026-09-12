@@ -2085,7 +2085,7 @@
       "port-version": 0
     },
     "cpp-sort": {
-      "baseline": "2.1.0",
+      "baseline": "2.2.0",
       "port-version": 0
     },
     "cpp-timsort": {
@@ -3649,7 +3649,7 @@
       "port-version": 0
     },
     "gtk": {
-      "baseline": "4.22.4",
+      "baseline": "4.22.5",
       "port-version": 0
     },
     "gtk3": {
@@ -9477,7 +9477,7 @@
       "port-version": 0
     },
     "slick-stream-buffer-multiplexer": {
-      "baseline": "1.0.1",
+      "baseline": "2.0.0",
       "port-version": 0
     },
     "slickquant-hyperliquid-cpp": {
