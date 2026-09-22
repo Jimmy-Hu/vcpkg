@@ -1885,7 +1885,7 @@
       "port-version": 0
     },
     "cnats": {
-      "baseline": "3.13.0",
+      "baseline": "3.14.0",
       "port-version": 0
     },
     "cnl": {
@@ -4945,7 +4945,7 @@
       "port-version": 0
     },
     "libde265": {
-      "baseline": "1.1.1",
+      "baseline": "1.1.3",
       "port-version": 0
     },
     "libdeflate": {
