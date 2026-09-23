@@ -2117,7 +2117,7 @@
       "port-version": 0
     },
     "cppduals": {
-      "baseline": "0.9.4",
+      "baseline": "0.9.6",
       "port-version": 0
     },
     "cppfs": {
@@ -6237,7 +6237,7 @@
       "port-version": 0
     },
     "llvm": {
-      "baseline": "23.1.1",
+      "baseline": "23.1.2",
       "port-version": 0
     },
     "lmdb": {
