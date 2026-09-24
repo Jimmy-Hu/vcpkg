@@ -136,6 +136,10 @@
       "baseline": "4.3.27",
       "port-version": 0
     },
+    "amsozzer1-plusweb": {
+      "baseline": "0.1.2",
+      "port-version": 0
+    },
     "anari": {
       "baseline": "0.15.0",
       "port-version": 0
@@ -9470,6 +9474,10 @@
     },
     "slick-object-pool": {
       "baseline": "0.2.0",
+      "port-version": 0
+    },
+    "slick-perfmon": {
+      "baseline": "0.1.0",
       "port-version": 0
     },
     "slick-queue": {
