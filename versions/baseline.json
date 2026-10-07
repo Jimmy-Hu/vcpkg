@@ -3570,7 +3570,7 @@
     },
     "gperf": {
       "baseline": "3.3",
-      "port-version": 0
+      "port-version": 1
     },
     "gperftools": {
       "baseline": "2.18.1",
@@ -10055,6 +10055,10 @@
     "systemc": {
       "baseline": "3.0.2",
       "port-version": 1
+    },
+    "sz": {
+      "baseline": "3.4.0",
+      "port-version": 0
     },
     "tabulate": {
       "baseline": "1.5",
