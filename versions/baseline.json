@@ -601,24 +601,24 @@
       "port-version": 5
     },
     "azure-storage-blobs-cpp": {
-      "baseline": "12.18.0",
+      "baseline": "12.19.0",
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.14.0",
+      "baseline": "12.15.0",
       "port-version": 0
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.16.0",
+      "baseline": "12.17.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.18.0",
+      "baseline": "12.19.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
-      "baseline": "12.7.0",
-      "port-version": 1
+      "baseline": "12.8.0",
+      "port-version": 0
     },
     "azure-uamqp-c": {
       "baseline": "2025-03-31",
@@ -2669,8 +2669,8 @@
       "port-version": 0
     },
     "duckdb": {
-      "baseline": "1.4.4",
-      "port-version": 1
+      "baseline": "1.5.6",
+      "port-version": 0
     },
     "duckx": {
       "baseline": "1.2.2",
@@ -3842,7 +3842,7 @@
     },
     "hexl": {
       "baseline": "1.2.6",
-      "port-version": 1
+      "port-version": 2
     },
     "hffix": {
       "baseline": "1.4.1",
@@ -4097,8 +4097,8 @@
       "port-version": 1
     },
     "intelrdfpmathlib": {
-      "baseline": "20U2",
-      "port-version": 7
+      "baseline": "20U5",
+      "port-version": 0
     },
     "intrusive-shared-ptr": {
       "baseline": "1.13",
@@ -9021,7 +9021,7 @@
       "port-version": 0
     },
     "rohit-singh-gautam-serializer": {
-      "baseline": "1.0.0",
+      "baseline": "1.5.0",
       "port-version": 0
     },
     "rp-ntuples": {
@@ -9185,7 +9185,7 @@
       "port-version": 0
     },
     "scinumtools3": {
-      "baseline": "0.8.0",
+      "baseline": "0.9.1",
       "port-version": 0
     },
     "sciplot": {
@@ -9285,7 +9285,7 @@
       "port-version": 10
     },
     "seal": {
-      "baseline": "4.4.5",
+      "baseline": "4.5.0",
       "port-version": 0
     },
     "seasocks": {
@@ -9341,7 +9341,7 @@
       "port-version": 1
     },
     "sfgui": {
-      "baseline": "1.0.0",
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "sfl": {
@@ -10761,7 +10761,7 @@
       "port-version": 2
     },
     "vcpkg-tool-nodejs": {
-      "baseline": "24.14.0",
+      "baseline": "24.21.0",
       "port-version": 0
     },
     "vcpkg-tool-python2": {
