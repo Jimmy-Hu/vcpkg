@@ -501,7 +501,7 @@
       "port-version": 0
     },
     "aws-c-mqtt": {
-      "baseline": "1.1.2",
+      "baseline": "1.1.3",
       "port-version": 0
     },
     "aws-c-s3": {
@@ -809,7 +809,7 @@
       "port-version": 0
     },
     "blosc2": {
-      "baseline": "3.4.1",
+      "baseline": "3.6.2",
       "port-version": 0
     },
     "blpapi": {
@@ -1138,7 +1138,7 @@
     },
     "boost-locale": {
       "baseline": "1.92.0",
-      "port-version": 0
+      "port-version": 1
     },
     "boost-lockfree": {
       "baseline": "1.92.0",
@@ -1549,7 +1549,7 @@
       "port-version": 0
     },
     "btoon": {
-      "baseline": "0.1.4",
+      "baseline": "0.3.0",
       "port-version": 0
     },
     "buck-yeh-bux": {
@@ -3305,7 +3305,7 @@
       "port-version": 0
     },
     "frugally-deep": {
-      "baseline": "0.20.0",
+      "baseline": "0.21.1",
       "port-version": 0
     },
     "fruit": {
@@ -3473,7 +3473,7 @@
       "port-version": 0
     },
     "ggml": {
-      "baseline": "0.26.0",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "ghc-filesystem": {
@@ -4030,7 +4030,7 @@
     },
     "imath": {
       "baseline": "3.2.3",
-      "port-version": 0
+      "port-version": 1
     },
     "imcce-openfa": {
       "baseline": "20231011.0.3",
@@ -4109,8 +4109,8 @@
       "port-version": 0
     },
     "intel-mkl": {
-      "baseline": "2025.2.0",
-      "port-version": 1
+      "baseline": "2026.2.0",
+      "port-version": 0
     },
     "intelrdfpmathlib": {
       "baseline": "20U5",
@@ -5169,7 +5169,7 @@
       "port-version": 0
     },
     "libffi": {
-      "baseline": "3.8.0",
+      "baseline": "3.8.1",
       "port-version": 0
     },
     "libfido2": {
@@ -6325,7 +6325,7 @@
       "port-version": 0
     },
     "llama-cpp": {
-      "baseline": "0.6.0",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "llfio": {
@@ -6453,7 +6453,7 @@
       "port-version": 1
     },
     "luau": {
-      "baseline": "0.746",
+      "baseline": "0.747",
       "port-version": 0
     },
     "lunarg-vulkantools": {
@@ -6545,7 +6545,7 @@
       "port-version": 1
     },
     "manifold": {
-      "baseline": "3.5.4",
+      "baseline": "3.5.5",
       "port-version": 0
     },
     "mapbox-geojson-cpp": {
@@ -7050,7 +7050,7 @@
     },
     "mumps-solver": {
       "baseline": "5.9.1",
-      "port-version": 1
+      "port-version": 2
     },
     "munit": {
       "baseline": "2019-04-06",
@@ -7613,7 +7613,7 @@
       "port-version": 0
     },
     "openexr": {
-      "baseline": "3.5.3",
+      "baseline": "3.5.4",
       "port-version": 0
     },
     "openfbx": {
@@ -9553,11 +9553,11 @@
       "port-version": 0
     },
     "simdjson": {
-      "baseline": "5.1.1",
+      "baseline": "5.2.0",
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "9.3.3",
+      "baseline": "9.4.0",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
